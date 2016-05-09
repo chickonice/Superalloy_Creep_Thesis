@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="MacBook-Pro-177" Modified="2016-05-09 00:17:51 -0400" ModID="3AA63DDE-2320-49AE-9EF2-F6A3B2F8B0B3">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="MacBook-Pro-177" Modified="2016-05-09 03:49:43 -0400" ModID="7B2B3E7F-522F-4106-94E3-6ECCC2CCA8E8">
     <Binder>
         <BinderItem ID="0" UUID="56DADFFB-7EF8-49E1-A7BC-C737BAF0078A" Type="DraftFolder" Created="2016-02-01 19:51:34 -0500" Modified="2016-02-01 19:51:34 -0500">
             <Title>Draft</Title>
@@ -47,7 +47,7 @@
                         <TextSelection>153,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="15" UUID="48A46013-E3E4-436F-9BCE-8C2700707AFC" Type="Text" Created="2016-02-01 19:51:34 -0500" Modified="2016-02-01 20:37:42 -0500">
+                <BinderItem ID="15" UUID="48A46013-E3E4-436F-9BCE-8C2700707AFC" Type="Text" Created="2016-02-01 19:51:34 -0500" Modified="2016-05-09 03:49:43 -0400">
                     <Title>Acknowledgements</Title>
                     <MetaData>
                         <PageBreakBefore>Yes</PageBreakBefore>
@@ -109,44 +109,44 @@
                                 <TextSelection>748,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="39" UUID="FCCEDD85-8C06-47D4-BF00-276F32FDFDBB" Type="Text" Created="2016-02-01 20:28:45 -0500" Modified="2016-02-02 16:36:58 -0500">
+                        <BinderItem ID="39" UUID="FCCEDD85-8C06-47D4-BF00-276F32FDFDBB" Type="Text" Created="2016-02-01 20:28:45 -0500" Modified="2016-05-09 02:25:17 -0400">
                             <Title>Background</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>542,0</TextSelection>
+                                <TextSelection>787,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="40" UUID="5C40D0F8-3333-48D0-9C52-BE5E131FF80C" Type="Text" Created="2016-02-01 20:29:24 -0500" Modified="2016-05-09 00:17:51 -0400">
-                            <Title>Methods</Title>
+                        <BinderItem ID="40" UUID="5C40D0F8-3333-48D0-9C52-BE5E131FF80C" Type="Text" Created="2016-02-01 20:29:24 -0500" Modified="2016-05-09 00:55:37 -0400">
+                            <Title>Experimental Methods</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>544,0</TextSelection>
+                                <TextSelection>266,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="41" UUID="315C67F4-C06B-461E-B8B1-2EB8984E1868" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-02-02 16:37:44 -0500">
-                            <Title>Results</Title>
+                        <BinderItem ID="64" UUID="6B8C3A4B-71EF-47F4-BC63-5438E1615180" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-05-09 01:56:15 -0400">
+                            <Title>Effect of Heat Treatment Conditions on Constant Stress Creep Rates and Microstructure</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>186,0</TextSelection>
+                                <TextSelection>474,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="61" UUID="3C2AD877-36DC-48EA-BDCE-5EE280A8CA69" Type="Text" Created="2016-02-02 16:38:26 -0500" Modified="2016-02-02 16:38:46 -0500">
-                            <Title>Discussion</Title>
+                        <BinderItem ID="61" UUID="3C2AD877-36DC-48EA-BDCE-5EE280A8CA69" Type="Text" Created="2016-02-02 16:38:26 -0500" Modified="2016-05-09 01:53:44 -0400">
+                            <Title>Effect of Heat Treatment Conditions on Mechanical Properties </Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>144,0</TextSelection>
+                                <TextSelection>264,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="42" UUID="EF908D50-D365-4EC8-9E63-D3D9D9018BAB" Type="Text" Created="2016-02-01 20:29:46 -0500" Modified="2016-02-02 16:38:46 -0500">
@@ -256,17 +256,17 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <MediaSettings>
-                                <CurrentPDFPage>3</CurrentPDFPage>
+                                <CurrentPDFPage>27</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="46" UUID="879678D9-2D28-40AD-962D-49420D34FA30" Type="Text" Created="2015-12-02 17:18:24 -0500" Modified="2015-12-02 17:18:32 -0500">
+                        <BinderItem ID="46" UUID="879678D9-2D28-40AD-962D-49420D34FA30" Type="Text" Created="2015-12-02 17:18:24 -0500" Modified="2016-05-09 01:33:19 -0400">
                             <Title>Trotter Thesis 12-2-15 correcting formatting 2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>120722,0</TextSelection>
+                                <TextSelection>149043,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="47" UUID="099384E4-0B62-417E-A5C9-58F5BE67DE1A" Type="Text" Created="2015-12-04 15:49:58 -0500" Modified="2015-12-04 15:49:58 -0500">
@@ -276,7 +276,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>3087,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -674,6 +674,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="41" UUID="315C67F4-C06B-461E-B8B1-2EB8984E1868" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-05-09 01:43:37 -0400">
+                    <Title>Effect of Heat Treatment Conditions on Microstructure</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>233,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -717,7 +727,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-06-19 08:28:32 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="26" Characters="222" Date="2016-05-08 23:51:20 -0400"></PreviousSession>
+        <PreviousSession Words="534" Characters="3173" Date="2016-05-09 01:01:09 -0400"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>FDB7A592-5F8A-41BE-82DC-5CE440EBC8E6</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="8 1/2x11" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
