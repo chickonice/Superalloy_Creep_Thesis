@@ -128,8 +128,8 @@
 	<false/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {585.5, 681}}</string>
-		<string>{{586.5, 0}, {506.5, 681}}</string>
+		<string>{{0, 0}, {586, 681}}</string>
+		<string>{{587, 0}, {506, 681}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>2</integer>
@@ -213,9 +213,9 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 974}, {585, 630}}</string>
+	<string>{{0, 0}, {586, 630}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{243, 0}</string>
+	<string>{359, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1182,7 +1182,7 @@
 		<integer>10</integer>
 	</array>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{10, 325.5}, {506, 599}}</string>
+	<string>{{0, 518}, {506, 599}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{3097, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
