@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="MacBook-Pro-177" Modified="2016-05-11 08:43:03 -0400" ModID="D67E8D67-AEA9-4954-9288-B386F9D33E06">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="MacBook-Pro-177" Modified="2016-05-11 11:32:52 -0400" ModID="57219533-76AB-446C-8A69-5E298984D40D">
     <Binder>
         <BinderItem ID="0" UUID="56DADFFB-7EF8-49E1-A7BC-C737BAF0078A" Type="DraftFolder" Created="2016-02-01 19:51:34 -0500" Modified="2016-02-01 19:51:34 -0500">
             <Title>Draft</Title>
@@ -124,7 +124,7 @@
                                 <TextSelection>1503,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="40" UUID="5C40D0F8-3333-48D0-9C52-BE5E131FF80C" Type="Text" Created="2016-02-01 20:29:24 -0500" Modified="2016-05-11 08:42:36 -0400">
+                        <BinderItem ID="40" UUID="5C40D0F8-3333-48D0-9C52-BE5E131FF80C" Type="Text" Created="2016-02-01 20:29:24 -0500" Modified="2016-05-11 11:32:52 -0400">
                             <Title>Ch.3 Experimental Methods</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -213,14 +213,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="20" UUID="B383B042-A189-4E4E-AB92-691D238D7F01" Type="Text" Created="2016-02-01 19:51:34 -0500" Modified="2016-05-11 08:43:03 -0400">
+                        <BinderItem ID="20" UUID="B383B042-A189-4E4E-AB92-691D238D7F01" Type="Text" Created="2016-02-01 19:51:34 -0500" Modified="2016-05-11 08:55:24 -0400">
                             <Title>Figure 1</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Figures and Graphs.tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>4,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="67" UUID="0FCABD02-9C6E-4975-908D-5C0D51E10926" Type="Text" Created="2016-02-01 19:51:34 -0500" Modified="2016-05-10 10:37:35 -0400">
@@ -295,7 +295,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <MediaSettings>
-                                <CurrentPDFPage>46</CurrentPDFPage>
+                                <CurrentPDFPage>45</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
                         <BinderItem ID="46" UUID="879678D9-2D28-40AD-962D-49420D34FA30" Type="Text" Created="2015-12-02 17:18:24 -0500" Modified="2016-05-09 01:33:19 -0400">
@@ -371,7 +371,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
+                                <CurrentPDFPage>4</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
                         <BinderItem ID="51" UUID="8BD6E691-ECEE-4DCE-A277-BB0D53A9FF19" Type="PDF" Created="2015-12-01 08:57:36 -0500" Modified="2015-12-01 08:57:36 -0500">
@@ -416,7 +416,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
+                                <CurrentPDFPage>5</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
                     </Children>
@@ -776,7 +776,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-06-19 08:28:32 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="236" Characters="1363" Date="2016-05-11 06:39:24 -0400"></PreviousSession>
+        <PreviousSession Words="578" Characters="3520" Date="2016-05-11 06:39:24 -0400"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>FDB7A592-5F8A-41BE-82DC-5CE440EBC8E6</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="8 1/2x11" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
