@@ -921,7 +921,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileUsePeriodSpaceFootnoteMarkerStyleKey</key>
 	<false/>
 	<key>SCRCompileUseProjectPageSetupKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileVariableReplacementsKey</key>
 	<array/>
 	<key>SCRTemplateCompileSettingsTitle</key>
