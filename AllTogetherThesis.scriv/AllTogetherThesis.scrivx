@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="MacBook-Pro-177" Modified="2016-05-14 16:39:23 -0400" ModID="3379859F-8F49-40E9-AA8A-FD47A5C5CB61">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="MacBook-Pro-177" Modified="2016-05-14 17:03:45 -0400" ModID="3D551ECB-D988-492D-8420-A746D2B25425">
     <Binder>
         <BinderItem ID="0" UUID="56DADFFB-7EF8-49E1-A7BC-C737BAF0078A" Type="DraftFolder" Created="2016-02-01 19:51:34 -0500" Modified="2016-02-01 19:51:34 -0500">
             <Title>Draft</Title>
@@ -102,7 +102,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="38" UUID="3ECA6BFE-B399-409E-8C2B-8DCA0E103855" Type="Text" Created="2016-02-01 17:45:49 -0500" Modified="2016-05-14 16:39:23 -0400">
+                        <BinderItem ID="38" UUID="3ECA6BFE-B399-409E-8C2B-8DCA0E103855" Type="Text" Created="2016-02-01 17:45:49 -0500" Modified="2016-05-14 17:03:45 -0400">
                             <Title>Ch.1 Introduction</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -297,14 +297,14 @@
                                 <TextSelection>27893,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="47" UUID="099384E4-0B62-417E-A5C9-58F5BE67DE1A" Type="Text" Created="2015-12-04 15:49:58 -0500" Modified="2016-05-14 16:37:28 -0400">
+                        <BinderItem ID="47" UUID="099384E4-0B62-417E-A5C9-58F5BE67DE1A" Type="Text" Created="2015-12-04 15:49:58 -0500" Modified="2016-05-14 16:53:34 -0400">
                             <Title>Bin Hu Thesis 14th 12042015</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>57979,0</TextSelection>
+                                <TextSelection>13485,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -796,7 +796,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-06-19 08:28:32 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-421" Characters="-2093" Date="2016-05-14 09:04:10 -0400"></PreviousSession>
+        <PreviousSession Words="36" Characters="677" Date="2016-05-14 09:04:10 -0400"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>FDB7A592-5F8A-41BE-82DC-5CE440EBC8E6</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="8 1/2x11" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
