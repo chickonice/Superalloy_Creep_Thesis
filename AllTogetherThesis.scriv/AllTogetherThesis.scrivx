@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="MacBook-Pro-177" Modified="2016-05-14 17:03:45 -0400" ModID="3D551ECB-D988-492D-8420-A746D2B25425">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="MacBook-Pro-177" Modified="2016-05-14 17:06:12 -0400" ModID="6EA7D34F-B8DA-46AC-A832-0E843488518A">
     <Binder>
         <BinderItem ID="0" UUID="56DADFFB-7EF8-49E1-A7BC-C737BAF0078A" Type="DraftFolder" Created="2016-02-01 19:51:34 -0500" Modified="2016-02-01 19:51:34 -0500">
             <Title>Draft</Title>
@@ -287,7 +287,7 @@
                                 <CurrentPDFPage>38</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="46" UUID="879678D9-2D28-40AD-962D-49420D34FA30" Type="Text" Created="2015-12-02 17:18:24 -0500" Modified="2016-05-09 01:33:19 -0400">
+                        <BinderItem ID="46" UUID="879678D9-2D28-40AD-962D-49420D34FA30" Type="Text" Created="2015-12-02 17:18:24 -0500" Modified="2016-05-14 17:06:12 -0400">
                             <Title>Trotter Thesis 12-2-15 correcting formatting 2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
