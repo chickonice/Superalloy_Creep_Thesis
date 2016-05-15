@@ -269,31 +269,7 @@ Chapter 7 Conclusions and suggestions for Future Work	119
 7.2.2 Creep Tests of TMT alloys	122
 References	123
 
-List of Tables
-No table of figures entries found.
-No table of figures entries found.
-No table of figures entries found.
-No table of figures entries found.
-
-
-
-
-
-
-
-
-
-List of Figures
-
-No table of figures entries found.
-No table of figures entries found.
-No table of figures entries found.
-No table of figures entries found.
-No table of figures entries found.
-No table of figures entries found.
 Chapter 1 Introduction
-
-
 1.1 Background
             The energy efficiency of fossil-fired boiler/steam turbine power plants is strongly dependent on the operation temperature and pressure. An effective way to enhance the energy conversion efficiency of fossil fuel power plants is to increase their operating temperature and pressure. The operating temperature and pressure of current ultra-supercritical (USC) power plants are 600ºC/25MPa and this will eventually increase to 700ºC/35MPa and then later to 760ºC/35MPa for the next generation of advanced ultra-supercritical (A-USC) power plants [1-4]. Another benefit to running such power plants at higher temperatures and pressures is the reduction of CO2 emissions and carbon footprint. A key factor to achieve this is the materials of construction for boilers and steam turbines [5-7].  The materials used for the boiler/steam turbine in a A-USC power plant must be able to withstand not only this high operating temperature, but also have excellent oxidation and corrosion resistance, and most importantly be of low cost [8, 9].  Extensive efforts are underway to develop materials with high temperature strength, oxidation resistance/corrosion resistance, and low cost [10-12].  High-nickel alloy and nickel-based superalloy meet all the performance goals, but they are too expensive to use due to the high content of nickel [13-15].
              Heat-resistant FeNi-based austenitic stainless steels could potentially be used for USC power plants due to their good creep, good oxidation resistance and relatively low cost. However, they rely on the formation of chromia (Cr2O3) as the surface protection layer and chromia starts to lose its protective capability under aggressive environments at temperature above ~650ºC [16-18].  Ferritic FeCrAl alloys are available for long time applications due to their outstanding high temperature oxidation and corrosion resistance. But, they have poor creep resistance at temperature above 600ºC because of their open body-centered-cubic (b.c.c.) structure [18]. Face-centered-cubic (f.c.c.) austenitic stainless steels are the primary potential materials of construction for this high temperature application. They have a combination of high temperature (&gt;600ºC) creep strength, oxidation resistance and a lower cost because of a lower Ni content (~20 wt.% of Ni) [7, 19].  
@@ -321,12 +297,7 @@ Figure 1.3  (a) oxidation test results at 800ºC in 10 % water vapor and (b) cre
              In Chapter 5, the effect of boron and carbon addition to the aged AFA alloy will be outlined. The microstructure and elevated temperature mechanical properties were studied to explore influence of boron addition.
              Chapter 6 will discuss the characterizations of recently-developed AFA alloys after creep testing performed at Oak Ridge National Laboratory (ORNL).
              Chapter 7 is the summary and conclusions of this research project. Future work is also suggested 
-  
-
-
 Chapter 2 Experimental Methods
-
-
 2.1 Introduction
             This chapter describes the general materials processing and characterization procedures. Further experimental details will be listed in each chapter.
 2.2 Materials Preparation
@@ -432,7 +403,6 @@ N
 0.0004
  
 &lt;0.0001
-
             Two TMTs of the DAFA29 were performed in an attempt to produce finer and uniformly distributed precipitates as shown in Figure 2.1 [47].  In the first approach (referred to as Method #1), the DAFA29 was cold rolled to a 90 % reduction in thickness with a ~4.5 % reduction per pass, and then annealed at 800ºC for 2.4, 24, or 240 h.  In the second approach (referred to as Method #2), the alloy is given a solutionizing anneal at 1200ºC and then cold rolled to a 90 % reduction in thickness with a ~4.5 % reduction per pass before annealing at 800ºC for 2.4, 24, or 240 h.
            
 ￼
@@ -601,9 +571,6 @@ Chapter 4 The Effect of Thermo-mechanical Treatment on the High Temperature Tens
 
 ￼
 Figure 4.1 Stress strain curves of as-received and TMT DAFA29 at 700ºC, a) after TMT Method#1, b) after TMT Method#2.
-
-
-
 Table 4.1 Yield strength, elongation at fracture and reduction in area at the neck for the as-received and TMT DAFA29 after tensile tested at 700°C
  
 TMT Method#1
@@ -664,7 +631,6 @@ Figure 4.3 True stress-strain curves for as-received and TMT DAFA29 at 600ºC (a
 Figure 4.4 Yield stress of as-received DAFA29 and TMT DAFA29 (Method#1 and Method#2) as a function of temperatures (All the tests were performed at strain rate of 5 × 10-4 s-1)
 4.3.2 Strain Rate Jump Tests at Elevated Temperatures
             Generally, the flow stress of alloys at elevated temperature is a function of the applied strain rate. The magnitude of the effect is expressed by the strain rate sensitivity m.  Theoretically, it is possible to carry out a series tensile tests at various temperatures and strain rates.  In practice, this is rarely done because of the limitations of time and the numbers of specimens required.  Instead, strain rate jump tests can be performed using a single specimen. The strain rate is increased to a second level (approximately an order of magnitude) once a steady state flow stress is obtained. 
-
             Strain rate jump experiments were performed on as-received and TMT DAFA29 at 600ºC. The strain rate jump test results are shown in Figure 4.5a.  The initial strain rate was 5 × 10-5 s-1 with an order of magnitude increase for each jump. The flow stresses of both TMT alloys increased with the strain rate increases.  But, the flow stress of as-received DAFA29 is relatively independent of strain rate at this temperature.  It is insensitive to the strain rate change at 600ºC. It is worth noting the serrations that occurred on the as-received DAFA29 during testing at 600ºC.  The serrated flow starts when the strain rate jumps from 5 × 10-5 s-1 to 5 × 10-4 s-1.  It is thought to be related to dynamic strain aging in this material. We will further explain these serrations in the discussion section.
             Strain rate jump tests were also performed at 700ºC which is the target application temperature for AFA stainless steels. The results of strain rate jump tests of as-received and TMT DAFA29 performed are shown in Figure 4.5b.  The initial strain rate was 5 × 10-5 s-1 with an order of magnitude increase for each jump. The flow stresses of all samples increased with the strain rate increasing.   At the strain rate of 5 × 10-5 s-1, the flow stress of as-received DAFA29 was 445 MPa which is almost twice that of TMT DAFA29 of 292 MPa.  When the strain rate is jumped to 5 × 10-2 s-1, the flow stress of as-received DAFA29 was 829 MPa, which is less than that of TMT DAFA29 of 1080 MPa. 
 ￼
@@ -844,14 +810,7 @@ Figure 4.13 A plot of ln(σ) as a function of 1/T
 
 
 
-
-
-
-
-
 Chapter 5 Characterization of the Aging of Alumina-forming Austenitic Alloys
-
-
 5.1	Introduction
             The current chapter investigates the effects of aging on the microstructures and mechanical properties of the recently-developed AFA stainless steels, DAFA26 and DAFA29, which are Fe-14Cr-32Ni-3Nb-3Al-2Ti-based alloys. We explored the effects of aging time on the microstructures of alloys, specifically on the precipitation of Fe2Nb Laves phase and B2-NiAl on the grain boundaries and L12 in f.c.c. matrix, in an attempt to further improve the mechanical properties of AFA stainless steels. The effects of boron and carbon additions on the microstructures and various precipitates are discussed.
 5.2	Experimental
@@ -1563,6 +1522,22 @@ REFERENCES
 METALLURGICAL AND MATERIALS TRANSACTIONS A
 </Text>
         </Document>
+        <Document ID="70">
+            <Title>Ch.4 Effect of Heat Treatment Conditions on Constant Stress Creep Rates and Microstructure copy</Title>
+            <Text>CHAPTER 4	EFFECT OF AGING TIME ON HIGH TEMPERATURE TENSILE BEHAVIOR 
+4.1	Introduction
+		The current chapter investigates the effects of aging time on the model alloy’s high temperature tensile behavior at 760 ºC. Elevated temperature tensile tests and strain-rate jump tests were performed for specimens homogenized at 1250 ºC and subsequently aged 0, 2.4, 24 or 240 h at 760 ºC. The resulting true stress-strain curve results were studied and compared. 
+4.2	Experimental 
+4.2.1	Tensile tests at elevated temperature
+		T-bones 0.8 mm thick, with a gauge length of 10 mm and width of 2.65 mm were machined from the model alloy as detailed in section 2.1.2 and homogenized at 1250 ºC for 24 h. Specimens were aged at 760 ºC for 0, 2.4, 24 or 240 h. Elevated temperature tensile tests were conducted at 760 ºC with an applied preload force of 50 N. For all tests the initial strain rate was 5 × 10-4 s-1, and each tensile test was performed three times for each heat treatment protocol. The yield strength was recorded and the data reported as true stress-strain curves. Percent elongation of the specimen was obtained by comparing the initial specimen gauge length and measuring the specimen gauge length after the tests were complete.		
+4.2.2 	Strain-rate jump tests at elevated temperature 
+ 	T-bones 0.8 mm thick, with a gauge length of 10 mm and width of 2.65 mm were machined from the model alloy as detailed in section 2.1.2 and homogenized at 1250 ºC for 24 h. Specimens were aged at 760 ºC for 0, 2.4, 24 or 240 h. Strain-rate jump tests were conducted at 760 ºC, with an applied preload force of 50N prior to testing. The initial strain for all tests was 5 × 10-5 s-1. Each strain-rate jump was increased by an order of magnitude once a steady-state flow stress was obtained. The strain-rate jump test was performed three times for each specimen. 
+4.3	Results and Discussion
+4.3.1	Tensile tests at elevated temperature
+
+4.3.2	Strain-rate jump tests at elevated temperature 
+</Text>
+        </Document>
         <Document ID="56">
             <Title>Baker Proposal</Title>
         </Document>
@@ -1731,36 +1706,28 @@ Author's personal copy
         </Document>
         <Document ID="64">
             <Title>Ch.3 Effect of Heat Treatment Conditions on Constant Stress Creep Rates and Microstructure</Title>
-            <Text>CHAPTER 3	EFFECT OF THERMO-MECHANICAL TREATMENTS OF ALUMINA-FORMING AUSTENITIC STAINLESS STEELS ON MICROSTRUCTURE AND MECHANICAL PROPERTIES 
+            <Text>CHAPTER 3	EFFECT OF AGING TIME ON MICROSTRUCTURE AND HIGH TEMPERATURE CONSTANT-STRESS CREEP BEHAVIOR 
+3.1	Introduction 
+		In this chapter, the effects of aging time on the microstructure and high temperature creep behavior of the model alloy Fe-20Cr-30Ni-2Nb-5Al is investigated. Constant-stress creep tests were performed at an elevated temperature of 760 ºC for specimens first homogenized at 1250 ºC and then aged 0, 2.4, 24 or 240 h at 800 ºC. 		Microstructural analysis was performed on the specimens prior to and after each creep test. Microstructural evolution was studied for a non-aged homogenized sample at four points along the creep curve. The microstructural effects of straining at high temperature under a constant stress were also investigated, specifically by comparing precipitated particle quantity at two locations of a crept specimen: one in which the specimen did not feel strain and another at which it did.   
+3.2	Experimental
+SEM work prior 
 
-4.1	Effect of Aging on Microstructure 
-4.1.1	Experimental  
+Full range and partial tests
 
+SEM work after 
 
-4.1.2	Results and Discussion
+Crept specimen particle quantification
 
-4.2	Effect of Thermo-Mechanical Treatments on Constant-Stress Creep Rates and Microstructure
-4.2.1	Experimental 
-Tensile test specimens
+3.3	Results and Discussion
+3.2.1	Effect of aging time on constant-stress creep rates and microstructure  
+ 
+3.2.2	Comparison of straining on crept specimen 
+	T-bone head to gauge comparison
 
+3.2.3	Evolution of microstructure along constant-stress creep curve 
+			 Particle Quantification 
 
-4.2.2	Results and discussion
-Abc
-Abc
-4.2	Effect of Aging on Mechanical Properties 
-4.2.1	Experimental 
- Strain rate jump tests were performed on the Instron 5690 tensile testing machine at 600 ºC and 700ºC on both as-received and TMT alloys. A preload force of 50 N was again applied on specimen before the strain rate jump tests were started. The initial strain rate for all strain rate jump tests was 5 × 10-5 s-1.
-
-4.2.2	Results and discussion
- Generally, the flow stress of alloys at elevated temperature is a function of the applied strain rate. The magnitude of the effect is expressed by the strain rate sensitivity m.  Theoretically, it is possible to carry out a series tensile tests at various temperatures and strain rates.  In practice, this is rarely done because of the limitations of time and the numbers of specimens required.  Instead, strain rate jump tests can be performed using a single specimen. The strain rate is increased to a second level (approximately an order of magnitude) once a steady state flow stress is obtained. 
-            Strain rate jump experiments were performed on as-received and TMT DAFA29 at 600ºC. The strain rate jump test results are shown in Figure 4.5a.  The initial strain rate was 5 × 10-5 s-1 with an order of magnitude increase for each jump. The flow stresses of both TMT alloys increased with the strain rate increases.  But, the flow stress of as-received DAFA29 is relatively independent of strain rate at this temperature.  It is insensitive to the strain rate change at 600ºC. It is worth noting the serrations that occurred on the as-received DAFA29 during testing at 600ºC.  The serrated flow starts when the strain rate jumps from 5 × 10-5 s-1 to 5 × 10-4 s-1.  It is thought to be related to dynamic strain aging in this material. We will further explain these serrations in the discussion section.
-            Strain rate jump tests were also performed at 700ºC which is the target application temperature for AFA stainless steels. The results of strain rate jump tests of as-received and TMT DAFA29 performed are shown in Figure 4.5b.  The initial strain rate was 5 × 10-5 s-1 with an order of magnitude increase for each jump. The flow stresses of all samples increased with the strain rate increasing.   At the strain rate of 5 × 10-5 s-1, the flow stress of as-received DAFA29 was 445 MPa which is almost twice that of TMT DAFA29 of 292 MPa.  When the strain rate is jumped to 5 × 10-2 s-1, the flow stress of as-received DAFA29 was 829 MPa, which is less than that of TMT DAFA29 of 1080 MPa. 
-￼#
-Figure 4.5 Strain rate jump tests of as-received and TMT DAFA29 (Method#1 and Method#2) at 600ºC (a) and 700ºC (b).  Each strain rate jump is increased by an order of magnitude starting at an initial strain rate of 5 × 10-5 s-1.
-
-
-￼￼
-Figure 9. Representative tensile curves of Fe-20Cr-30Ni-2Nb-5Al (at. %) homogenized at 1523K for 24 h and subsequently aged at 1073K for the different times as indicated. </Text>
+</Text>
         </Document>
         <Document ID="57">
             <Title>Full_Baker_proposal</Title>
@@ -3410,7 +3377,7 @@ Chairman_______________________
 (Dr. Rachel Obbard) 
 
 Member________________________ 
-(Dr. Abc Abc) 
+(Dr. Harold Frost) 
 
 
 
@@ -3446,7 +3413,7 @@ Master of Science
 
 Dr. Ian Baker 
 Dr. Rachel Obbard 
-Dr. Abc Abc
+Dr. Harold Frost
 ABSTRACT
 	General intro…. The microstructure of a high-temperature superalloy was examined before and after creep and heat treatments. It was determined that… 
 	Comparison between….show that….Abc…. Application of this work in future studies could reduce noise, improve abc and reduce abc.  
@@ -3686,9 +3653,9 @@ Table 2.1 Chemical composition comparison of the Carpenter Technology alloy
 		￼
 Figure 2.1: CAD file drawing of a T-bone specimen inserted into one side of the creep machine’s specimen grips. 
 2.1.3	Material Homogenization and Heat Treatments 
-		Solutionizing anneals were necessary to homogenize the material for a uniform microstructure. For all tests in this study, the as-cast model alloy was homogenized for 4 h at 1250 ºC in a vacuum and then water-quenched. This temperature and time was chosen with consideration to prior work with Fe-20Cr-30Ni-2Nb-5Al, where it was determined that a solutionized single phase γ-matrix could be consistently formed. This was confirmed with SEM images of the as-cast raw material and compared with the material after a heat treatment homogenization conducted at 1250 ºC for 4 h.  
+		Solutionizing anneals were necessary to homogenize the material for a uniform microstructure. For all tests in this study, the as-cast model alloy was homogenized for 24 h at 1250 ºC in a vacuum and then water-quenched. This temperature and time was chosen with consideration to prior work with Fe-20Cr-30Ni-2Nb-5Al, where it was determined that a solutionized single phase γ-matrix could be consistently formed. This was confirmed with SEM images of the as-cast raw material and compared with the material after a heat treatment homogenization conducted at 1250 ºC for 24 h.  
 		All solutionizing heat treatments were conducted using a Thermo Scientific Type 54233 Lindberg Closed-Shell tube furnace. Specimens were placed on top of a piece of alumina and maneuvered to the center of the furnace tube with a rod. The furnace tube was then purged with argon and placed under a pressure of 0.01 MPa to maintain an oxygen-free environment and to prevent oxidation of the sample inside the furnace until the heat treatment was complete. Once the sample was sealed inside the furnace, the furnace was turned on and the temperature set to 1250 ºC. When the solutionizing anneal was complete, the pressure seal was broken and the sample rapidly quenched in water with a substantially greater mass compared to the sample. 
-		All heat treatments of the samples after they were homogenized were conducted at 800 ºC for a variety of time intervals ranging from 0 to 240 h. Heat treatments were conducted in a  Barnstead Thermolyne Type 47900 Furnace. Samples were placed inside an alumina crucible and then positioned at the center of the furnace for the duration of the heat treatment. At the completion of the heat treatment, the samples were quenched with water. 
+		All heat treatments of the samples after they were homogenized were conducted at 800 ºC for a variety of time intervals of 0, 2.4, 24 or 240 h. Heat treatments were conducted in a  Barnstead Thermolyne Type 47900 Furnace. Samples were placed inside an alumina crucible and then positioned at the center of the furnace for the duration of the heat treatment. At the completion of the heat treatment, the samples were quenched with water. 
 2.2	Constant-Stress Creep Apparatus Design and Testing
 2.2.1	Overview of constant-stress creep testing
 		Creep testing machines take several forms depending on what is the primary target of investigation, which includes constant load, variable stress and constant-stress riges. A small change in the level of stress can have a large effect on strain rate affecting both the overall creep rate and microstructure of the sample. With increasing strain, the cross-sectional area A of a test specimen decreases, which if tested in a constant-load creep rig, results in an increase in the instantaneous stress. With a load P, cross-sectional area A, the stress on the specimen will be σ = P/A. A constant-stress machine would allow the stress variable to be controlled by compensating for the decrease in the specimen’s cross-sectional area by decreasing the effective load applied on the specimen. This allows the basic creep mechanisms acting on the specimens tested to be isolated and analyzed.
@@ -3751,22 +3718,26 @@ where P is the load and L is the length of the specimen, must be satisfied for a
 ￼
 Figure 2.8: Load calibration of constant-stress cam 
 2.2.5	Testing Procedure 
-		With the completion of calibration testing, creep test specimens were milled from the Fe-20Cr-30Ni-2Nb-5Al model alloy as described in section 2.1.2 with the dimensions shown in Figure 2.9. Each specimen was homogenized for 4 h at 1250 ºC as described in section 2.1.3 and subsequently heat treated at 800 ºC if required.  
+		With the completion of calibration testing, creep test specimens were milled from the Fe-20Cr-30Ni-2Nb-5Al model alloy as described in section 2.1.2 with the dimensions shown in Figure 2.9. Each specimen was homogenized for 24 h at 1250 ºC as described in section 2.1.3 and subsequently heat treated at 800 ºC if required.  
 ￼
 Figure 2.9: Dimensions of creep test specimen in millimeters. 
-		Test specimens were inserted into the specimen grips and the furnace door locked. Glass wool was placed over the top and bottom furnace openings to reduce air currents and increase temperature uniformity. 8.852 lb were placed on the loading tray for a total load of 35 MPa, but not attached to the cam cable wire attachment loop. The cam was set so that the inscribed horizontal position mark was level and the furnace set to 760 ºC. Upon reaching the desired temperature, the weighted loading tray was hooked on the wire cable attachment loop and the system put into tension. When the loading tray stabilized within a few seconds, the data record button on the data logger would be pressed to begin data logging. Temperature was held constant in each test. 
-		At 760 ºC and under a 35 MPa load, it was established that the model alloy tested would enter the secondary creep regime approximately one hour after the specimen was put into tension by loading. It would remain at a steady state for a duration of at least 750 hr (the longest duration tested). To capture a representative sample of the creep curve, the duration of each test was 500 hr, with the exception of two shorter partial tests conducted to evaluate microstructure changes at stages on the creep curve. 
-		Upon completion of a test, data recording would be terminated, the system unloaded and the furnace ramped down to room temperature. The test specimen would then be removed from the specimen grips and sectioned into three parts using a diamond saw as described in section 2.1.2. Figure 2.10 shows the locations of where each section was located on the T-bone. Each section was imaged using Scanning Electron Microscopy as detailed in the following section. These three locations were chosen to explore any differences in precipitate directionality visible during the microstructure analysis of each sample.
+		Test specimens were inserted into the specimen grips and the furnace door locked. Glass wool was placed over the top and bottom furnace openings to reduce air currents and increase temperature uniformity. 8.852 lb were placed on the loading tray for a total load of 35 MPa, but not attached to the cam cable wire attachment loop. The cam was set so that the inscribed horizontal position mark was level and the furnace set to 760 ºC. This temperature was chosen for all creep tests, because it matches the the target application temperature for AFA stainless steels. Upon reaching the desired temperature, the weighted loading tray was hooked on the wire cable attachment loop and the system put into tension. When the loading tray stabilized within a few seconds, the data record button on the data logger would be pressed to begin data logging. Temperature was held constant in each test. 
+		At 760 ºC and under a 35 MPa load, it was established that the model alloy tested would enter the secondary creep regime approximately one hour after the specimen was put into tension by loading. It would remain at a steady state for a duration of at least 750 h (the longest duration tested). To capture a representative sample of the creep curve, the duration of each test was 500 h, with the exception of two shorter partial tests conducted to evaluate microstructure changes at stages on the creep curve. 
+		Upon completion of a test, data recording would be terminated, the system unloaded and the furnace ramped down to room temperature. The test specimen would then be removed from the specimen grips and sectioned into three parts using a diamond saw as described in section 2.1.2. Figure 2.10 shows the locations of where each section was located on the T-bone. Each section was imaged using Scanning Electron Microscopy as detailed in the following section. These three locations were chosen to explore any differences in precipitate directionality visible during the microstructural analysis of each sample.
 
 ￼
-Figure 2.10: Post-creep T-bone cross-sections cut for SEM microstructure analysis. (A) Square (B) Head (C) Middle-long 
+Figure 2.10: Post-creep T-bone cross-sections cut for SEM microstructural analysis. (A) Square (B) Head (C) Middle-long 
 		Creep curves of strain percent over time were produced from the load and displacement data collected. Details about the heat treatments and each test’s duration can be found in the following chapter. 
 	2.3	Materials Characterization
 2.3.1	Scanning Electron Microscopy
 		In preparation for imaging with the Scanning Electron Microscope (SEM), samples were compression mounted and polished on a turntable using successively finer silicon carbide abrasive paper up to 1200-grit, then with 0.3 µm followed by a finer 0.05 µm alumina powder dissolved in water. Samples were placed on a polishing vibrometer with a thin layer of diluted MasterMet Colloidal Silica Polishing Suspension solution for ~3 h to eliminate surface defects and achieve a mirror finish. After the polishing was complete, the samples were washed with a spray of distilled water, then methanol, followed by a light scrubbing with a cotton swab and detergent to eliminate any adhered alumina particles. 
-		Samples were imaged using a Tescan Vega3 SEM outfitted with Bruker Quantax Energy-dispersive X-ray Spectroscopy (EDS) and electron backscatter diffraction (EBSD) detectors. Samples were imaged using back-scattered electrons (BSE) with a working distance of ~10 mm and operating voltage of 15 keV. 
-2.3.2	Strain Rate Jump Testing
-		T-bones 2 mm thick, with a gauge length of 20 mm and overall length of 35 mm were machined from the model alloy as detailed in section 2.1.2 and homogenized at 1250 ºC for 4 h. The testing specimens were inserted into the high-temperature specimen grips of the Instron 5690 tensile testing machine coupled with a MTS hydraulic testing machine. Elevated temperature tensile tests were conducted in air at 760 ºC with an initial strain rate of 5 × 10-5 s-1. Each strain rate jump was increased by an order of magnitude, and a preload force of 150 N was applied prior to the strain rate jump tests. Percent elongation of the specimen was obtained by comparing the initial specimen gauge length and measuring the specimen gauge length after the tests were complete. The strain rate jump test was performed three times for each specimen. 
+		Samples were imaged using a Tescan Vega3 SEM outfitted with Bruker Quantax Energy-dispersive X-ray Spectroscopy (EDS) and electron backscatter diffraction (EBSD) detectors. Samples were imaged using back-scattered electrons (BSE) with a working distance of 10 mm and operating voltage of 15 keV. 
+2.3.2	Mechanical Testing
+		T-bones 0.8 mm thick, with a gauge length of 10 mm and width of 2.65 mm were machined from the model alloy as detailed in section 2.1.2 and homogenized at 1250 ºC for 24 h. Specimens were heat treated at 760 ºC for 0, 2.4, 24 or 240 h and inserted into  high-temperature specimen grips of the Instron 5690 tensile testing machine coupled with a MTS hydraulic testing machine. 
+		Elevated temperature tensile tests were conducted at 760 ºC with an applied preload force of 50 N. For all tests the initial strain rate was 5 × 10-4 s-1, and each tensile test was performed three times for each heat treatment protocol. The yield strength was recorded and the data reported as true stress-strain curves. Percent elongation of the specimen was obtained by comparing the initial specimen gauge length and measuring the specimen gauge length after the tests were complete.
+		Elevated temperature strain-rate jump tests were conducted at 760 ºC, with an applied preload force of 50N prior to testing. The initial strain for all tests was 5 × 10-5 s-1. Each strain-rate jump was increased by an order of magnitude once a steady-state flow stress was obtained. The strain-rate jump test was performed three times for each specimen. Results were reported as true stress-strain curves. 
+
+
 </Text>
         </Document>
         <Document ID="33">
@@ -3829,8 +3800,8 @@ Abc</Text>
             <Synopsis>Duplicate important drafts into here.</Synopsis>
         </Document>
         <Document ID="42">
-            <Title>Ch.4 Conclusion</Title>
-            <Text>CHAPTER 4	CONCLUSION 
+            <Title>Ch.5 Conclusion</Title>
+            <Text>CHAPTER 5	CONCLUSION 
 
 Paragraph 1
 Paragraph 2
@@ -4040,8 +4011,8 @@ The Metals Society, London, 1974.
 </Text>
         </Document>
         <Document ID="43">
-            <Title>Ch.5 Future Work</Title>
-            <Text>CHAPTER 5	FUTURE WORK
+            <Title>Ch.6 Future Work</Title>
+            <Text>CHAPTER 6	FUTURE WORK
 
 Future work should be divided into two main focus areas: 
 
@@ -4296,7 +4267,7 @@ Downloaded by [Dartmouth College Library] at 05:54 01 December 2015
         </Document>
         <Document ID="44">
             <Title>References</Title>
-            <Text>8	REFERENCES </Text>
+            <Text>7	REFERENCES </Text>
         </Document>
         <Document ID="37">
             <Title>Untitled</Title>
@@ -5322,19 +5293,16 @@ Mat. Trans. A 39 (2008) 2340–2350. 67 [39] J. Wright, J. Simpson, R. Wright, L
 		Increasing efficiency while decreasing the cost of operating advanced power plants has been an ongoing process. Energy efficiency gains also result in the added benefit of reducing CO2 emissions, which bolsters the motivation to pursue efficiency-increasing strategies { | Viswanathan, et al., 2004 | | |zu:2902168:SB3FI4HD}{ | Viswanathan, et al., 2006 | | |zu:2902168:5T7X6XNB}{ | Viswanathan, et al., 2008 | | |zu:2902168:VCJX2678}{ | Viswanathan, et al., 2005 | | |zu:2902168:M9KI53RT}. The efficiency of energy conversion applications is a strong function of steam temperature and pressure, thus increases in energy efficiency can be realized by elevating operating steam temperatures and pressures { | Viswanathan, &amp; Bakker, 2001 | | |zu:2902168:7689KUZX}. Efforts are underway to enable advanced power plants to function at temperatures greater than 700 °C. An important contributor to realizing these higher steam temperatures and pressures, is the metal composition of the power plants' industrial gas turbine components, super heater tubes and boilers { | Yamamoto, et al., 2007 | | |zu:2902168:85ZQGZD8}. Metal alloys used at the high-temperatures and pressures of many energy production and chemical processing plants, must have the necessary properties to withstand such conditions. These properties include the materials' high-temperature creep strength, oxidation and corrosion resistance. Aggressive environments, where metal components are exposed to water vapor, sulfur and carbon species, are a prime target for new materials development { | Yamamoto, et al., 2007 | | |zu:2902168:4MNWSE4J}. 
 		Nickel-based superalloys and austenitic alloys with high nickel concentrations perform well and have the necessary creep strength and oxidation and corrosion resistance to withstand such conditions, but are prohibitively expensive and not economically viable due to the high nickel levels and nickel’s cost{ | Viswanathan, et al., 2008 | | |zu:2902168:VCJX2678}{ | Viswanathan, et al., 2005 | | |zu:2902168:M9KI53RT}. Thus other alloys are now being researched and developed that can withstand the demands of such energy conversion and combustion systems as well as to decrease reliance on costly nickel-based alloys. However, in order for an alternative to be viable, it must have the strength, longterm creep and oxidation resistance close to or exceeding this of nickel-based alloys. One promising class of alloys that are low in cost and potentially capable of withstanding the rigors placed on the materials by high temperature energy applications are alumina-forming austenitic stainless steels (AFAs) { | Yamamoto, et al., 2007 | | |zu:2902168:85ZQGZD8}{ | Brady, et al., 2007 | | |zu:2902168:CQH9PX4J}{ | Brady, et al., 2008 | | |zu:2902168:VU6Q4EDM}{ | Pint, et al., 2007 | | |zu:2902168:9NXG7NJ2}{ | Brady, et al., 2009 | | |zu:2902168:SZSS7FI6}{ | Yamamoto, et al., 2009 | | |zu:2902168:UK5QSMTK}{ | Brady, et al., 2014 | | |zu:2902168:PD5B4ZPG}{ | Yamamoto, et al., 2013 | | |zu:2902168:37HVMBC9}. However, it has not yet been demonstrated that this class of steels have the oxidation and corrosion resistance as well as creep strength necessary to be a viable alternative to nickel-based alloys. 
 	1.2	Alumina-Forming Austenitic Stainless Steels	
-		Researchers at Oak Ridge National Laboratory have developed a new family of AFAs in the last few years that have yielded promising results for use with elevated temperatures above 700 °C in aggressive environments { | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}{ | Yamamoto, et al., 2007 | | |zu:2902168:UQXIIP8N}{ | Brady, et al., 2008 | | |zu:2902168:PB5FB5Z3}{ | Yamamoto, et al., 2008 | | |zu:2902168:X76SQJXR}{ | Yamamoto, et al., 2011 | | |zu:2902168:UJ9EJWHK}. These new AFAs being developed have a composition range of Fe-(12-35)Ni-(12-15)Cr-(2.5-4)Al-(0.6–3)Nb (wt%), and include alloying additions such as Al, Cr, Mn and Ni to to maintain a single phase austenitic matrix microstructure { | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}. The alumina (Al2O3) that forms in AFAs acts as a barrier and increases the oxidation and corrosion resistance of the material. Austenitic steels without sufficient additions of aluminum use chromia (Cr2O3) scales as a protective layer, but in environments with high concentrations of water vapor and other oxidizing agents, the chromia scales perform poorly. Relatively small amounts of aluminum additions to austenitic steels and alloys has the ability to form the protective alumina surface layer. It’s been shown that these alumina scale formations remain stable at operating temperatures between 650 °C and 800 °C, with the necessary oxidation resistance in environments with water vapor present, making AFAs the preferred choice for use in low-cost, high-temperature structural materials { | Kofstad, &amp; Bredesen, 1992 | | |zu:2902168:JCTUIGD6}{ | Pint, et al., 2006 | | |zu:2902168:U89A5P53}{ | Pint, et al., 2004 | | |zu:2902168:9KQPSD4R}{ | Yamamoto, et al., 2007 | | |zu:2902168:85ZQGZD8}{ | Brady, et al., 2010 | | |zu:2902168:H6UIDG3Q}{ | Yamamoto, et al., 2006 | | |zu:2902168:9BTPENSB}{ | Brady, et al., 2007 | | |zu:2902168:CQH9PX4J}. Ferritic FeCrAl alloys have excellent oxidation and corrosion resistance at elevated temperatures, however at temperatures greater than 600 °C their creep resistance does not meet expectations set by nickel-based alloys, a property that is attributed to their open body-centered-cubic (b.c.c) structure { | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}. 
-		 In the past, AFAs have primarily used MC carbides for their strength (with the metal primarily being niobium){ | Brady, et al., 2008 | | |zu:2902168:4UVJT7ZI}{ | Yamamoto, et al., 2007 | | |zu:2902168:UQXIIP8N}, but at elevated temperatures above 800 °C, the carbide precipitates coarsen and dissolve { | Pint, et al., 2009 | | |zu:2902168:CVM8HWFW}, making them unsuitable for use in elevated temperature applications. These newer grades of AFAs being developed have an austenitic face-centered-cubic matrix instead of a b.c.c matrix, and their elevated temperature creep resistance and strength is achieved through MC carbides, M23C6 (M=Cr, Nb) and γ’-Ni3Al precipitates { | Sourmail, 2001 | | |zu:2902168:UJ3U2B4C}{ | Abe, et al., 2007 | | |zu:2902168:M5BVQK2E}{ | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}{ | Stott, et al., 1995 | | |zu:2902168:HEWBBS3B}{ | Yamamoto, et al., 2007 | | |zu:2902168:85ZQGZD8}. The effect of various precipitates and their phases on creep strength in AFAs with a variety of alloying elements is still being explored to identify the optimum combination of alloys and precipitates for their use at elevated temperatures in the 600 °C to 800 °C range. Small changes in alloy composition and precipitate phases often results in a wide variation of creep strengths { | Viswanathan, &amp; Bakker, 2001 | | |zu:2902168:7689KUZX}{ | Yamamoto, et al., 2013 | | |zu:2902168:37HVMBC9}{ | Chen, et al., 2014 | | |zu:2902168:GDI3FBC2}. 
-1.3	AFA precipitates
-		Intermetallic Laves phase precipitates have the potential to be used as strengtheners in AFA alloys to further improve their creep resistance. The formation of Laves phase precipitates along grain boundaries in ferritic steels results in a decrease in the alloys’ strength { | Kato, et al., 2010 | | |zu:2902168:V73NJ84H}, however creep strengthening has been achieved in AFAs { | Liu, et al., 2000 | | |zu:2902168:7QWGA24G}{ | Yamamoto, et al., 2007 | | |zu:2902168:UQXIIP8N}. The AB2-type Laves phase has three forms: MgZn2 (C14), cubic MgCu2 (C15) and hexagonal MgNi2 (C36) { | Lin, &amp; Havner, 1994 | | |zu:2902168:93FWD2JS}. For example the AFA alloy Fe-20Cr-30Ni-2Nb-5Al (at%) demonstrates good ductility and strength, even with extensive intermetallic formation of Laves phase precipitates along the grain boundaries { | Trotter, &amp; Baker, 2015 | | |zu:2902168:25396B3B}. It has been shown that in Fe-20Cr-(25–35)Ni-2Nb (at.%) alloys, fine dispersions of strengthening C14 Fe2Nb Laves phase can form within the austenitic Fe matrix { | Cao, &amp; Kennedy, 2001 | | |zu:2902168:CW3SMDBS}. The use of Fe2Nb Laves phase particles has shown thermal stability up to its melting point of 1640 °C in the Fe-Nb system over a prolonged duration { | Massalski, et al., 1904 | | |zu:2902168:25HIHA5G} and exists in equilibrium with f.c.c. γ-Fe above 955 °C in the Fe-Cr-Ni base steel { | Villars, et al., 1995 | | |zu:2902168:Z63677GQ}, making it a good candidate for strengthening AFAs at elevated temperatures. 
- 	Prior work with the intermetallic Laves phase used to strengthen AFAs have shown that a particle dispersion diameter of &lt;100 nm is recommended to match the creep strength of AFAs strengthened with MC carbides { | Yamamoto, et al., 2008 | | |zu:2902168:P4GIA9HS}. This decrease in the precipitate size and increase of the precipitate volume fraction in the austenitic matrix, allows for dislocations to be pinned leading to an increase in creep strength. 
-		
-1.4 	Creep 
-1.4.1	Overview of steady-state creep
-1.4.2 	Creep Machines
+		Researchers at Oak Ridge National Laboratory have developed a new family of AFAs in the last few years that have yielded promising results for use with elevated temperatures above 700 °C in aggressive environments { | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}{ | Yamamoto, et al., 2007 | | |zu:2902168:UQXIIP8N}{ | Brady, et al., 2008 | | |zu:2902168:PB5FB5Z3}{ | Yamamoto, et al., 2008 | | |zu:2902168:X76SQJXR}{ | Yamamoto, et al., 2011 | | |zu:2902168:UJ9EJWHK}. These new AFAs being developed have a composition range of Fe-(12-35)Ni-(12-15)Cr-(2.5-4)Al-(0.6–3)Nb (wt%), and include alloying additions such as Al, Cr, Mn and Ni to to maintain a single phase austenitic matrix microstructure { | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}. The alumina (Al2O3) that forms in AFAs acts as a barrier and increases the oxidation and corrosion resistance of the material. Austenitic steels without sufficient additions of aluminum use chromia (Cr2O3) scales as a protective layer, but in environments with high concentrations of water vapor and other oxidizing agents, the chromia scales perform poorly. Relatively small amounts of aluminum additions to austenitic steels has the ability to form the protective alumina surface layer. It’s been shown that these alumina scale formations remain stable at operating temperatures between 650 °C and 800 °C, with the necessary oxidation resistance in environments with water vapor present, making AFAs the preferred choice for use in low-cost, high-temperature structural materials { | Kofstad, &amp; Bredesen, 1992 | | |zu:2902168:JCTUIGD6}{ | Pint, et al., 2006 | | |zu:2902168:U89A5P53}{ | Pint, et al., 2004 | | |zu:2902168:9KQPSD4R}{ | Yamamoto, et al., 2007 | | |zu:2902168:85ZQGZD8}{ | Brady, et al., 2010 | | |zu:2902168:H6UIDG3Q}{ | Yamamoto, et al., 2006 | | |zu:2902168:9BTPENSB}{ | Brady, et al., 2007 | | |zu:2902168:CQH9PX4J}. Ferritic FeCrAl alloys have excellent oxidation and corrosion resistance at elevated temperatures, however at temperatures greater than 600 °C their creep resistance does not meet expectations set by nickel-based alloys, a property that is attributed to their open body-centered-cubic (b.c.c) structure { | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}. 
+	1.3	AFA precipitates 
+		Precipitates play a large role in determining the mechanical properties of an alloy. Both the type of precipitate but also its distribution have an effect on an alloy’s strength and creep resistance. Precipitate nucleation occurs due to the strain energy being lowered { | Cahn, 1957 | | |zu:2902168:R27TI7KH}. Precipitates nucleate preferentially on grain boundaries due to a larger strain energy reduction compared with precipitation occurring on dislocations which has a higher activation energy { | Porter, et al., 2009 | | |zu:2902168:2MM6WBDJ}. The type, size, distribution and volume fraction all have an effect on the alloy’s properties. The effect of various precipitates and their phases on creep strength in AFAs with a variety of alloying elements is still being explored to identify the optimum combination of alloys and precipitates for their use at elevated temperatures in the 600 °C to 800 °C range. Small changes in alloy composition and precipitate phases often results in a wide variation of creep strengths { | Viswanathan, &amp; Bakker, 2001 | | |zu:2902168:7689KUZX}{ | Yamamoto, et al., 2013 | | |zu:2902168:37HVMBC9}{ | Chen, et al., 2014 | | |zu:2902168:GDI3FBC2}. 
+		In the past, AFAs have primarily used MC carbides (with the metal primarily being niobium) or γ’-Ni3Al for their strength { | Brady, et al., 2008 | | |zu:2902168:4UVJT7ZI}{ | Yamamoto, et al., 2007 | | |zu:2902168:UQXIIP8N}. Particles that are ~10 nm in size are effective at increasing creep strength by pinning dislocations in the f.c.c. austenitic matrix. However at elevated temperatures above 800 °C, the carbide precipitates coarsen and dissolve { | Pint, et al., 2009 | | |zu:2902168:CVM8HWFW}, making them unsuitable for strengthening purposes in elevated temperature applications. Newer grades of AFAs being developed have an austenitic face-centered-cubic matrix instead of a b.c.c matrix, and their elevated temperature creep resistance and strength is achieved through not only the existing MC carbides and γ’-Ni3Al precipitates, but also Fe2Nb Laves phase and NiAl-type B2 precipitates { | Sourmail, 2001 | | |zu:2902168:UJ3U2B4C}{ | Abe, et al., 2007 | | |zu:2902168:M5BVQK2E}{ | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}{ | Stott, et al., 1995 | | |zu:2902168:HEWBBS3B}{ | Yamamoto, et al., 2007 | | |zu:2902168:85ZQGZD8}. 
+		Intermetallic Fe2Nb Laves phase precipitates have the potential to be used as strengtheners in AFA alloys to further improve their creep resistance. The formation of Laves phase precipitates along grain boundaries in ferritic steels results in a decrease in the alloys’ strength { | Kato, et al., 2010 | | |zu:2902168:V73NJ84H}, in contrast however creep strengthening has been achieved in AFAs { | Liu, et al., 2000 | | |zu:2902168:7QWGA24G}{ | Yamamoto, et al., 2007 | | |zu:2902168:UQXIIP8N}. The AB2-type Laves phase has three forms: MgZn2 (C14), cubic MgCu2 (C15) and hexagonal MgNi2 (C36) { | Lin, &amp; Havner, 1994 | | |zu:2902168:93FWD2JS}. For example the AFA alloy Fe-20Cr-30Ni-2Nb-5Al (at%) demonstrates good ductility and strength, even with extensive intermetallic formation of Laves phase precipitates along the grain boundaries { | Trotter, &amp; Baker, 2015 | | |zu:2902168:25396B3B}. It has been shown that in Fe-20Cr-(25–35)Ni-2Nb (at.%) alloys, fine dispersions of strengthening C14 Fe2Nb Laves phase can form within the austenitic iron matrix { | Cao, &amp; Kennedy, 2001 | | |zu:2902168:CW3SMDBS}. The use of Fe2Nb Laves phase particles has shown thermal stability up to its melting point of 1640 °C in the Fe-Nb system over a prolonged duration { | Massalski, et al., 1904 | | |zu:2902168:25HIHA5G} and exists in equilibrium with f.c.c. γ-Fe above 955 °C in the Fe-Cr-Ni base steel { | Villars, et al., 1995 | | |zu:2902168:Z63677GQ}, making it a good candidate for strengthening AFAs at elevated temperatures. Prior work with the intermetallic Laves phase Fe2Nb have shown that a particle dispersion diameter of &lt;100 nm is recommended to match the creep strength exhibited by AFAs strengthened with MC carbides { | Yamamoto, et al., 2008 | | |zu:2902168:P4GIA9HS}. This decrease in the precipitate size and increase of the precipitate volume fraction in the austenitic matrix, allows for dislocations to be pinned leading to an increase in the alloy’s creep strength. It has recently been shown that in Fe-20Cr-30Ni-2Nb (at.%), the alloy’s creep strength increased with an increasing volume fraction of Laves phase precipitated on the grain boundary. It was also noted that dislocations that piled up near Laves phase grain boundaries were effective at suppressing local deformation by inhibiting the motion of dislocations { | Tarigan, et al., 2011 | | |zu:2902168:G78CMASC}{ | Tarigan, et al., 2012 | | |zu:2902168:RB6XSGVQ}. 
 
-1.4.3	Creep for dispersion-strengthened materials
+		B2-type NiAl precipitates
+After aging treatment at 750ºC, NiAl type B2 phase precipitates (rod-like particles) with dark contrast can also be observed.   It has been reported that the B2 phase precipitates are not effective at improving the high temperature strength of austenitic stainless steels above 400ºC [11, 27].  However, they may enhance the creep resistance by affecting dislocation climb.  Creep testing at 750ºC results in a finer and denser distribution of these secondary precipitates than an aged alloy. These finer second phase precipitations are effective at increasing creep strength of alumina-forming austenitic stainless steels [30].  The B2-NiAl phase precipitates also play an important role in the oxidation resistance since they can work as an Al reservoir for forming an alumina scale at high temperatures [37].  
 
-
+		In order to better predict which precipitates are most beneficial for increasing AFA high temperature creep strength, further tests and characterizations need to be performed to form a better understanding of the complex interactions between the presence of various precipitates and phases and their effect on the alloys’ creep properties.  		
 1.5	Outline of Research Project
 		The purpose of this thesis is to investigate the creep rate and mechanical properties of an alumina-forming austenitic stainless steel, specifically the model alloy Fe-20Cr-30Ni-2Nb-5Al, for different heat treatment conditions. 
 		The investigation proceeded as follows:
@@ -5595,7 +5563,6 @@ Nucleation on dislocations was modeled by Cahn [46] in 1957 and occurs because i
 ￼
 
 where ￼ is the strain rate, 2λ is the mean free path between obstacles (~ the distance between particles), ρ is the density of dislocations, b is the Burger’s vector, D is the self-diffusion coefficient, G is the shear modulus, r is the particle radius, k is the relaxation parameter (0 ≤ k ≤ 1), σ is the engineering stress and σd is (1-k2)1/2σOr with σOr being the Orowan stress required to escape the particles, kB is the Boltzmann’s constant, and T is the temperature.  Using this model they were able to show that one could predict an optimum particle size with a given volume fraction.  Since dispersion-strengthened alloys use particles under 100 nm in size, the 300- 500 nm sized Fe2Nb particles that have been attained thus far would be more beneficial if they were refined further [9]. 
-
 1.4 Orientation Relationships
 1.4.1 Fe2Nb Denham and Silcock Orientation Relationship
 The orientation relationship(OR) between Laves phase particles and the f.c.c. matrix in AFAs has not been studied extensively.  The relationship observed by Denham and Silcock [48] for Laves phase precipitates in an f.c.c. alloy with Fe, Cr, Ni, Nb and other minor constituents, and also in a Fe-16.2Cr-14.3Ni-1.2Nb (at. %)  alloy with minor alloying additions [54] was determined to be:
@@ -5609,22 +5576,14 @@ The Kurdjumov-Sachs (K-S) orientation relationships (OR) is one of the ORs that 
 ￼ 
 ￼.
 24 different variants are possible in this orientation relationship since austenite has 4 ￼ planes and each ￼ plane contains 3 different &lt;110&gt; directions that can be parallel to 2 different bcc-α &lt;111&gt; directions [57].
-The orientation relationship of B2-NiAl particles wasere observed to follow the K-S orientation relationship in an Fe-Ni-Cr-Al (FNCA) alloy [41, 42] with B2-NiAl precipitates that had a plate-like morphology.  In that case, two K-S orientation relationship variants were observed.  In a study of f.c.c. Co precipitates in a B2-ordered (Ni,Co)Al alloy [58], 3 variants of the K-S orientation relationship were observed and it was noted that the ratio of the lattice parameters of the f.c.c and b.c.c. phase can influence the orientation relationship.  
-
-	
+The orientation relationship of B2-NiAl particles wasere observed to follow the K-S orientation relationship in an Fe-Ni-Cr-Al (FNCA) alloy [41, 42] with B2-NiAl precipitates that had a plate-like morphology.  In that case, two K-S orientation relationship variants were observed.  In a study of f.c.c. Co precipitates in a B2-ordered (Ni,Co)Al alloy [58], 3 variants of the K-S orientation relationship were observed and it was noted that the ratio of the lattice parameters of the f.c.c and b.c.c. phase can influence the orientation relationship.  	
 1.5 Overview of research project
 The Laves phase Fe2Nb and B2-NiAl precipitates commonly found in AFAs can strongly influence the material properties.  Intermetallic Fe2Nb Laves-phase precipitates have shown long-term stability at high temperature and have the potential to further improve the performance of alumina-forming austenitic (AFA) alloys.  Further refinement of Fe2Nb precipitates could allow these materials to meet the demand for even better creep life and high temperature strength.  The insights gained from an understanding of the fundamental and underlying causes of mechanical and microstructural responses observed in a model AFA alloy, Fe-20Cr-30Ni-2Nb-5Al can be extended to different classes of AFAs, as well as other austenitic stainless steels with complex matrix-precipitate relationships.  
-
 In chapter 3 the effect of cold Work on the Fe-20Cr-30Ni-2Nb-Al is described with a discussion of observed microstructural change and precipitate evolution as the material is aged.
-
 Chapter 4 focuses on the microstructure of Fe-20Cr-30Ni-2Nb-5Al under different aging conditions in order to understand the effects of aging on the precipitation of Fe2Nb Laves phase as well as B2-NiAl precipitates.  The effect of these precipitates on the mechanical properties of Fe-20Cr-30Ni-2Nb-Al is determined.
 
 Chapter 5 details the orientation relationship observed between the Laves phase and NiAl particles and the austenitic matrix.
-
 In Chapter 6 the microstructure of an AFA alloy, DAFA26, is also observed and the evolution of NiAl, Laves phase and L12 precipitates is described.
-
-
-
 
 
 
