@@ -1,0 +1,10 @@
+Scrivener/Zotero:
+shift-cmd-c reference in Zotero and then paste in scrivener
+
+Scrivener Compile; 
+In Zotero scan RF (select 'scannable cite format' in preferences) 
+In Libre Office set document preferences for bibliography, which takes you to Zotero, where you need to go to preferences, then change the export format to Nature. 
+
+Then return to Libre Office and select insert bibliography. Save doc as a word document and open in word! 
+
+Before adding new references to document, reset the citation preferences in Zotero back to 'scannable cite format' 
