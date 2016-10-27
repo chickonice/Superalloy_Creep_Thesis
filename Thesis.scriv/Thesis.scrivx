@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="MacBook-Pro-177" Modified="2016-10-27 14:50:25 -0400" ModID="FCCFFA39-A41C-49AA-973E-4DB88A82BD30">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="MacBook-Pro-177" Modified="2016-10-27 16:06:51 -0400" ModID="2B831B1A-19E5-451A-A4BC-1CC05A9DED25">
     <Binder>
         <BinderItem ID="0" UUID="56DADFFB-7EF8-49E1-A7BC-C737BAF0078A" Type="DraftFolder" Created="2016-02-01 19:51:34 -0500" Modified="2016-02-01 19:51:34 -0500">
             <Title>Draft</Title>
@@ -111,20 +111,20 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15126,0</TextSelection>
+                                <TextSelection>13433,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="86" UUID="D9841B1A-46AA-4E13-9E8A-5B2B7CB76A82" Type="Text" Created="2016-10-27 14:48:49 -0400" Modified="2016-10-27 14:50:20 -0400">
+                        <BinderItem ID="86" UUID="D9841B1A-46AA-4E13-9E8A-5B2B7CB76A82" Type="Text" Created="2016-10-27 14:48:49 -0400" Modified="2016-10-27 16:06:51 -0400">
                             <Title>Ch. 2 Constant-Stress Creep Apparatus Design and Calibration</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>12585,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="40" UUID="5C40D0F8-3333-48D0-9C52-BE5E131FF80C" Type="Text" Created="2016-02-01 20:29:24 -0500" Modified="2016-10-27 14:47:02 -0400">
+                        <BinderItem ID="40" UUID="5C40D0F8-3333-48D0-9C52-BE5E131FF80C" Type="Text" Created="2016-02-01 20:29:24 -0500" Modified="2016-10-27 15:37:56 -0400">
                             <Title>Ch.2 Experimental Methods</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -132,7 +132,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3948,0</TextSelection>
+                                <TextSelection>4169,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="64" UUID="6B8C3A4B-71EF-47F4-BC63-5438E1615180" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-10-26 14:55:10 -0400">
@@ -143,7 +143,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2166,0</TextSelection>
+                                <TextSelection>394,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="70" UUID="224506E5-EAC9-4B69-BAF0-726FF17BBD73" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-10-26 14:59:10 -0400">
@@ -154,7 +154,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1704,0</TextSelection>
+                                <TextSelection>189,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="42" UUID="EF908D50-D365-4EC8-9E63-D3D9D9018BAB" Type="Text" Created="2016-02-01 20:29:46 -0500" Modified="2016-05-14 14:34:52 -0400">
@@ -295,7 +295,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <MediaSettings>
-                                <CurrentPDFPage>82</CurrentPDFPage>
+                                <CurrentPDFPage>30</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
                         <BinderItem ID="46" UUID="879678D9-2D28-40AD-962D-49420D34FA30" Type="Text" Created="2015-12-02 17:18:24 -0500" Modified="2016-05-15 10:22:12 -0400">
@@ -305,7 +305,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>19711,0</TextSelection>
+                                <TextSelection>39881,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="47" UUID="099384E4-0B62-417E-A5C9-58F5BE67DE1A" Type="Text" Created="2015-12-04 15:49:58 -0500" Modified="2016-05-14 16:53:34 -0400">
@@ -953,7 +953,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-06-19 08:28:32 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="7" Characters="35" Date="2016-10-27 13:57:52 -0400"></PreviousSession>
+        <PreviousSession Words="111" Characters="804" Date="2016-10-27 13:57:52 -0400"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>FDB7A592-5F8A-41BE-82DC-5CE440EBC8E6</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="8 1/2x11" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
