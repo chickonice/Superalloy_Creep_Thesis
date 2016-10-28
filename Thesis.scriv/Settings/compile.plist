@@ -27,7 +27,7 @@
 	<key>SCRCompileCenterFirstPageHeaderStringKey</key>
 	<string></string>
 	<key>SCRCompileCenterFooterStringKey</key>
-	<string></string>
+	<string>&lt;$p&gt;</string>
 	<key>SCRCompileCenterHeaderStringKey</key>
 	<string></string>
 	<key>SCRCompileColorPrintedHyperlinksKey</key>
@@ -178,9 +178,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	</data>
 	<key>SCRCompileFDXSummaryFontKey</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSSEBVsz
-	NmNdBgAAABoAAAD//kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmDIQBYwCYAZgA
-	mACG
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaTCEBVs0
+	OGNdBgAAACYAAAD//i4AQQBwAHAAbABlAFMAeQBzAHQAZQBtAFUASQBGAG8AbgB0AAAA
+	hAFmDIQBYwCYAZgAmACG
 	</data>
 	<key>SCRCompileFDXUseDefaultScriptElementsKey</key>
 	<false/>
@@ -239,10 +239,6 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<true/>
 			<key>SCRMultiMarkdownPlacesTitleSuffixInsideHashesKey</key>
 			<true/>
-			<key>SCRNextSectionRectoVersoKey</key>
-			<integer>0</integer>
-			<key>SCRNextSectionUsesRectoVersoControlKey</key>
-			<false/>
 			<key>SCRNotesAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -410,7 +406,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileIncludeCurrentSelectionDescendantsKey</key>
 	<false/>
 	<key>SCRCompileIncludeFootnotesInStatisticsKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileIncludedTagKey</key>
 	<integer>0</integer>
 	<key>SCRCompileIncludesSubtitlesKey</key>
@@ -503,9 +499,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileOverrideFlattensFirstParagraphIndent</key>
 	<false/>
 	<key>SCRCompileOverrideFontFaceThroughoutKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileOverrideFontNameKey</key>
-	<string>TimesNewRomanPSMT</string>
+	<string>Helvetica</string>
 	<key>SCRCompileOverrideFootnotesFontKey</key>
 	<false/>
 	<key>SCRCompileOverridePrefixSeparatorInInlineLinksKey</key>
@@ -521,7 +517,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileOverridePreservesLineSpacingKey</key>
 	<false/>
 	<key>SCRCompileOverrideTextAndNotesFormatKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompilePDFExportColorInternalLinksKey</key>
 	<false/>
 	<key>SCRCompilePDFExportGeneratesOutlineKey</key>
@@ -538,7 +534,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompilePageBottomMarginUnitsKey</key>
 	<integer>1</integer>
 	<key>SCRCompilePageLeftMarginKey</key>
-	<real>1.5</real>
+	<real>1</real>
 	<key>SCRCompilePageLeftMarginUnitsKey</key>
 	<integer>1</integer>
 	<key>SCRCompilePageRightMarginKey</key>
@@ -583,9 +579,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileReduceRTFOrEbookFootnoteMarkerFontSizeKey</key>
 	<false/>
 	<key>SCRCompileRemoveAllHyperlinksKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileRemoveCommentsKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileRemoveFootnotesKey</key>
 	<false/>
 	<key>SCRCompileRemoveHighlightingKey</key>
@@ -609,9 +605,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileRightFirstPageHeaderStringKey</key>
 	<string></string>
 	<key>SCRCompileRightFooterStringKey</key>
-	<string>&lt;$p&gt;</string>
-	<key>SCRCompileRightHeaderStringKey</key>
 	<string></string>
+	<key>SCRCompileRightHeaderStringKey</key>
+	<string>&lt;$projecttitle&gt;</string>
 	<key>SCRCompileStatisticsCharacterCountExcludesWhitespaceKey</key>
 	<false/>
 	<key>SCRCompileStatisticsCountAllTextKey</key>
@@ -681,10 +677,6 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<true/>
 			<key>SCRMultiMarkdownPlacesTitleSuffixInsideHashesKey</key>
 			<true/>
-			<key>SCRNextSectionRectoVersoKey</key>
-			<integer>0</integer>
-			<key>SCRNextSectionUsesRectoVersoControlKey</key>
-			<false/>
 			<key>SCRNotesAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -813,10 +805,6 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<true/>
 			<key>SCRMultiMarkdownPlacesTitleSuffixInsideHashesKey</key>
 			<true/>
-			<key>SCRNextSectionRectoVersoKey</key>
-			<integer>0</integer>
-			<key>SCRNextSectionUsesRectoVersoControlKey</key>
-			<false/>
 			<key>SCRNotesAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -858,13 +846,13 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			</data>
 			<key>SCRTextAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
-			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYg
-			hAVbMzJjXQYAAAAYAAAA//5CAGEAcwBrAGUAcgB2AGkAbABsAGUA
-			hAFmDIQBYwCcAZwAnACGkoSXmBBOU1BhcmFncmFwaFN0eWxlhpKE
-			hIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
-			cGhTdHlsZQCVhARDQ0BTBACFgYAAhARbMWZdgwAAwD+Ghg==
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
+			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
+			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
+			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
+			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
+			Y10GAAAAFgAAAP/+QwBvAG4AcwB0AGEAbgB0AGkAYQAAAIQBZgyE
+			AWMAnwGfAJ8AhoY=
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
@@ -924,7 +912,5 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<true/>
 	<key>SCRCompileVariableReplacementsKey</key>
 	<array/>
-	<key>SCRTemplateCompileSettingsTitle</key>
-	<string>Scientific Paper - DJV</string>
 </dict>
 </plist>
