@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="MacBook-Pro-177" Modified="2016-10-27 20:35:28 -0400" ModID="40CA2521-0C74-4C88-81A4-4247E848E057">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="MacBook-Pro-177" Modified="2016-10-27 21:03:31 -0400" ModID="BFBDA49D-AEFA-4352-8D6B-6A2BC0CE313E">
     <Binder>
         <BinderItem ID="0" UUID="56DADFFB-7EF8-49E1-A7BC-C737BAF0078A" Type="DraftFolder" Created="2016-02-01 19:51:34 -0500" Modified="2016-02-01 19:51:34 -0500">
             <Title>Draft</Title>
@@ -124,7 +124,7 @@
                                 <TextSelection>2940,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="40" UUID="5C40D0F8-3333-48D0-9C52-BE5E131FF80C" Type="Text" Created="2016-02-01 20:29:24 -0500" Modified="2016-10-27 20:35:28 -0400">
+                        <BinderItem ID="40" UUID="5C40D0F8-3333-48D0-9C52-BE5E131FF80C" Type="Text" Created="2016-02-01 20:29:24 -0500" Modified="2016-10-27 21:03:31 -0400">
                             <Title>Ch.3 Experimental Methods</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -143,10 +143,10 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>394,0</TextSelection>
+                                <TextSelection>861,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="70" UUID="224506E5-EAC9-4B69-BAF0-726FF17BBD73" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-10-27 16:09:12 -0400">
+                        <BinderItem ID="70" UUID="224506E5-EAC9-4B69-BAF0-726FF17BBD73" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-10-27 20:51:51 -0400">
                             <Title>Ch.5 Effect of Aging Time on High Temperature Tensile Behavior</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -154,7 +154,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>189,0</TextSelection>
+                                <TextSelection>202,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="42" UUID="EF908D50-D365-4EC8-9E63-D3D9D9018BAB" Type="Text" Created="2016-02-01 20:29:46 -0500" Modified="2016-10-27 16:09:19 -0400">
@@ -953,7 +953,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-06-19 08:28:32 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="230" Characters="1566" Date="2016-10-27 13:57:52 -0400"></PreviousSession>
+        <PreviousSession Words="8" Characters="359" Date="2016-10-27 13:57:52 -0400"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>FDB7A592-5F8A-41BE-82DC-5CE440EBC8E6</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="8 1/2x11" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
