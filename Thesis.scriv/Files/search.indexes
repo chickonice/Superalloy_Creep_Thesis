@@ -37,26 +37,6 @@ Paragraph 2
 		In Chapter 6, the conclusions of this research project are summarized. Chapter 7 suggests future work. 
 </Text>
         </Document>
-        <Document ID="61">
-            <Title>Ch.4 Effect of Heat Treatment Conditions on Mechanical Properties </Title>
-            <Text>CHAPTER 4	EFFECT OF HEAT TREATMENT CONDITIONS ON MECHANICAL PROPERTIES OF ALUMINA-FORMING AUSTENITIC STAINLESS STEELS
-
-5.1	Strain Rate Jump Test Experimental   
-   Strain rate jump tests were performed on the Instron 5690 tensile testing machine at 600 ºC and 700ºC on both as-received and TMT alloys. A preload force of 50 N was again applied on specimen before the strain rate jump tests were started. The initial strain rate for all strain rate jump tests was 5 × 10-5 s-1.
-
-5.2	Results and Discussion
-
- Generally, the flow stress of alloys at elevated temperature is a function of the applied strain rate. The magnitude of the effect is expressed by the strain rate sensitivity m.  Theoretically, it is possible to carry out a series tensile tests at various temperatures and strain rates.  In practice, this is rarely done because of the limitations of time and the numbers of specimens required.  Instead, strain rate jump tests can be performed using a single specimen. The strain rate is increased to a second level (approximately an order of magnitude) once a steady state flow stress is obtained. 
-
-            Strain rate jump experiments were performed on as-received and TMT DAFA29 at 600ºC. The strain rate jump test results are shown in Figure 4.5a.  The initial strain rate was 5 × 10-5 s-1 with an order of magnitude increase for each jump. The flow stresses of both TMT alloys increased with the strain rate increases.  But, the flow stress of as-received DAFA29 is relatively independent of strain rate at this temperature.  It is insensitive to the strain rate change at 600ºC. It is worth noting the serrations that occurred on the as-received DAFA29 during testing at 600ºC.  The serrated flow starts when the strain rate jumps from 5 × 10-5 s-1 to 5 × 10-4 s-1.  It is thought to be related to dynamic strain aging in this material. We will further explain these serrations in the discussion section.
-            Strain rate jump tests were also performed at 700ºC which is the target application temperature for AFA stainless steels. The results of strain rate jump tests of as-received and TMT DAFA29 performed are shown in Figure 4.5b.  The initial strain rate was 5 × 10-5 s-1 with an order of magnitude increase for each jump. The flow stresses of all samples increased with the strain rate increasing.   At the strain rate of 5 × 10-5 s-1, the flow stress of as-received DAFA29 was 445 MPa which is almost twice that of TMT DAFA29 of 292 MPa.  When the strain rate is jumped to 5 × 10-2 s-1, the flow stress of as-received DAFA29 was 829 MPa, which is less than that of TMT DAFA29 of 1080 MPa. 
-#
-Figure 4.5 Strain rate jump tests of as-received and TMT DAFA29 (Method#1 and Method#2) at 600ºC (a) and 700ºC (b).  Each strain rate jump is increased by an order of magnitude starting at an initial strain rate of 5 × 10-5 s-1.
-
-
-￼
-Figure 9. Representative tensile curves of Fe-20Cr-30Ni-2Nb-5Al (at. %) homogenized at 1523K for 24 h and subsequently aged at 1073K for the different times as indicated. </Text>
-        </Document>
         <Document ID="54">
             <Title>Creep Basics</Title>
         </Document>
@@ -1333,20 +1313,25 @@ References
 [114] A. Srivastava, S. Gopagoni, A. Needleman, V. Seetharaman, A. Staroselsky, R. Banerjee, Acta Materialia, 60 (2012) 5697-5711.
 </Text>
         </Document>
-        <Document ID="62">
-            <Title>Experimental</Title>
-            <Synopsis>Describing construction of creep jig and operation</Synopsis>
-        </Document>
-        <Document ID="55">
-            <Title>garofalo1962apparatus</Title>
-            <Text>￼
+        <Document ID="61">
+            <Title>Ch.4 Effect of Heat Treatment Conditions on Mechanical Properties </Title>
+            <Text>CHAPTER 4	EFFECT OF HEAT TREATMENT CONDITIONS ON MECHANICAL PROPERTIES OF ALUMINA-FORMING AUSTENITIC STAINLESS STEELS
+
+5.1	Strain Rate Jump Test Experimental   
+   Strain rate jump tests were performed on the Instron 5690 tensile testing machine at 600 ºC and 700ºC on both as-received and TMT alloys. A preload force of 50 N was again applied on specimen before the strain rate jump tests were started. The initial strain rate for all strain rate jump tests was 5 × 10-5 s-1.
+
+5.2	Results and Discussion
+
+ Generally, the flow stress of alloys at elevated temperature is a function of the applied strain rate. The magnitude of the effect is expressed by the strain rate sensitivity m.  Theoretically, it is possible to carry out a series tensile tests at various temperatures and strain rates.  In practice, this is rarely done because of the limitations of time and the numbers of specimens required.  Instead, strain rate jump tests can be performed using a single specimen. The strain rate is increased to a second level (approximately an order of magnitude) once a steady state flow stress is obtained. 
+
+            Strain rate jump experiments were performed on as-received and TMT DAFA29 at 600ºC. The strain rate jump test results are shown in Figure 4.5a.  The initial strain rate was 5 × 10-5 s-1 with an order of magnitude increase for each jump. The flow stresses of both TMT alloys increased with the strain rate increases.  But, the flow stress of as-received DAFA29 is relatively independent of strain rate at this temperature.  It is insensitive to the strain rate change at 600ºC. It is worth noting the serrations that occurred on the as-received DAFA29 during testing at 600ºC.  The serrated flow starts when the strain rate jumps from 5 × 10-5 s-1 to 5 × 10-4 s-1.  It is thought to be related to dynamic strain aging in this material. We will further explain these serrations in the discussion section.
+            Strain rate jump tests were also performed at 700ºC which is the target application temperature for AFA stainless steels. The results of strain rate jump tests of as-received and TMT DAFA29 performed are shown in Figure 4.5b.  The initial strain rate was 5 × 10-5 s-1 with an order of magnitude increase for each jump. The flow stresses of all samples increased with the strain rate increasing.   At the strain rate of 5 × 10-5 s-1, the flow stress of as-received DAFA29 was 445 MPa which is almost twice that of TMT DAFA29 of 292 MPa.  When the strain rate is jumped to 5 × 10-2 s-1, the flow stress of as-received DAFA29 was 829 MPa, which is less than that of TMT DAFA29 of 1080 MPa. 
+#
+Figure 4.5 Strain rate jump tests of as-received and TMT DAFA29 (Method#1 and Method#2) at 600ºC (a) and 700ºC (b).  Each strain rate jump is increased by an order of magnitude starting at an initial strain rate of 5 × 10-5 s-1.
+
+
 ￼
-￼
-￼
-￼
-￼
-￼
-￼</Text>
+Figure 9. Representative tensile curves of Fe-20Cr-30Ni-2Nb-5Al (at. %) homogenized at 1523K for 24 h and subsequently aged at 1073K for the different times as indicated. </Text>
         </Document>
         <Document ID="48">
             <Title>Bin Met Trans 2015</Title>
@@ -1554,6 +1539,21 @@ REFERENCES
 1. R. Viswanathan and W. Bakker: J. Mater. Eng. Perform., 2001, vol. 10, pp. 81–95.
 METALLURGICAL AND MATERIALS TRANSACTIONS A
 </Text>
+        </Document>
+        <Document ID="62">
+            <Title>Experimental</Title>
+            <Synopsis>Describing construction of creep jig and operation</Synopsis>
+        </Document>
+        <Document ID="55">
+            <Title>garofalo1962apparatus</Title>
+            <Text>￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼</Text>
         </Document>
         <Document ID="70">
             <Title>Ch.5 Effect of Aging Time on High Temperature Tensile Behavior</Title>
@@ -1932,7 +1932,7 @@ JUNE 1962 / 293
             <Text>CHAPTER 4	EFFECT OF AGING TIME ON MICROSTRUCTURE AND HIGH TEMPERATURE CONSTANT-STRESS CREEP BEHAVIOR 
 4.1	Introduction 
 		In this chapter, the effects of aging time on the microstructure and high temperature creep behavior of the model alloy Fe-20Cr-30Ni-2Nb-5Al (at.%) is investigated. Constant-stress creep tests were performed at an elevated temperature of 760ºC for specimens first homogenized at 1250ºC and then aged 0, 2.4, 24 or 240 h at 800ºC. 
-		Microstructural analysis was performed on the specimens prior to and after each creep test. Microstructural evolution was studied for a non-aged homogenized sample at four points along the creep curve. The microstructural effects of straining at high temperature under a constant stress were also investigated, specifically by comparing precipitated particle quantity at two locations of a crept specimen: one in which the specimen did not feel strain and another at which it did.   
+		Microstructural analysis was performed on the specimens prior to and after each creep test. The microstructural effects of straining at high temperature under a constant stress were also investigated, specifically by comparing precipitated particle quantity at two locations of a crept specimen: one in which the specimen did not feel strain and another at which it did.   
 4.2	Experimental
 4.3	Results and Discussion
 4.2.1	Effect of aging time on constant-stress creep rates and microstructure  
@@ -2044,6 +2044,9 @@ Figure 12. Backscattered electron images showing precipitates in the GBs and the
 </Text>
             <Comments>Does the creep life have some relationship with n?
 It is difficult to compare since the magnification of two SEM images are different, the WD is also different</Comments>
+        </Document>
+        <Document ID="72">
+            <Title>New Folder</Title>
         </Document>
         <Document ID="65">
             <Title>Grips for Appendix</Title>
@@ -3239,6 +3242,9 @@ Center. http://dx.doi.org/10.7265/N5K07264.
 9 1   
   
 </Text>
+        </Document>
+        <Document ID="73">
+            <Title>Papers_from_Baker_16W</Title>
         </Document>
         <Document ID="66">
             <Title>Appendices</Title>
@@ -8032,6 +8038,9 @@ References
 
 [Insert text here]</Text>
         </Document>
+        <Document ID="69">
+            <Title>Untitled</Title>
+        </Document>
         <Document ID="84">
             <Title>ViewPageProof_MSA_33016</Title>
             <Text>Dear Author,
@@ -9434,6 +9443,9 @@ Author's personal copy
 Patients
 [Insert text here]</Text>
         </Document>
+        <Document ID="85">
+            <Title>Untitled</Title>
+        </Document>
         <Document ID="86">
             <Title>Ch. 2 Constant-Stress Creep Apparatus Design and Calibration</Title>
             <Text>CHAPTER 2	CONSTANT-STRESS CREEP RIG DESIGN AND CALIBRATION
@@ -9541,11 +9553,6 @@ The results will be published in refereed journals and presented at conferences.
             <Text>Methods
 [Insert text here]</Text>
         </Document>
-        <Document ID="13">
-            <Title>Statistical analysis</Title>
-            <Text>Statistical analysis
-[Insert text here]</Text>
-        </Document>
         <Document ID="20">
             <Title>Figure 1</Title>
             <Text>#
@@ -9607,16 +9614,21 @@ The results will be published in refereed journals and presented at conferences.
 
 ￼</Text>
         </Document>
-        <Document ID="21">
-            <Title>Table 1</Title>
-            <Synopsis>After you insert Table caption, you may either make the table in Scrivener, or you may insert it in text-processor (Word etc) after compiling.</Synopsis>
-            <Text>Table 1: [insert text here]
-[insert table here]</Text>
+        <Document ID="13">
+            <Title>Statistical analysis</Title>
+            <Text>Statistical analysis
+[Insert text here]</Text>
         </Document>
         <Document ID="14">
             <Title>Outcome measurements</Title>
             <Text>Outcome measurements
 [Insert text here]</Text>
+        </Document>
+        <Document ID="21">
+            <Title>Table 1</Title>
+            <Synopsis>After you insert Table caption, you may either make the table in Scrivener, or you may insert it in text-processor (Word etc) after compiling.</Synopsis>
+            <Text>Table 1: [insert text here]
+[insert table here]</Text>
         </Document>
         <Document ID="22">
             <Title>Templates</Title>
@@ -9685,11 +9697,8 @@ http://www.biosciencewriters.com/Writing-Cover-Letters-for-Scientific-Manuscript
 Figure 1: [insert text here]
 Figure 2: [insert text here]</Text>
         </Document>
-        <Document ID="31">
-            <Title>Methods</Title>
-            <Text>Methods
-
-[Insert text here]</Text>
+        <Document ID="17">
+            <Title>Figures</Title>
         </Document>
         <Document ID="24">
             <Title>Response to Reviewers' Comments</Title>
@@ -9704,17 +9713,20 @@ Reviewer 1
 
 &lt;$fullname&gt;</Text>
         </Document>
-        <Document ID="17">
-            <Title>Figures</Title>
+        <Document ID="31">
+            <Title>Methods</Title>
+            <Text>Methods
+
+[Insert text here]</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Ideas</Title>
         </Document>
         <Document ID="32">
             <Title>Conclusion</Title>
             <Text>Conclusion
 
 [Insert text here]</Text>
-        </Document>
-        <Document ID="25">
-            <Title>Ideas</Title>
         </Document>
         <Document ID="18">
             <Title>Tables</Title>
@@ -9784,6 +9796,13 @@ Figure 3.4: Dimensions of tensile test specimen in millimeters.
 [Leave this empty to use a reference manager like Zotero. Once you create a bibliography in LibreOffice/Word, paste the generated references into this part of the document]</Text>
             <Notes>If you are using EndNote, Zotero, or Mendeley you will need to cut and paste the generated references into this part of the document.  </Notes>
         </Document>
+        <Document ID="34">
+            <Title>Table of Contents</Title>
+        </Document>
+        <Document ID="27">
+            <Title>Past copies</Title>
+            <Synopsis>Duplicate important drafts into here.</Synopsis>
+        </Document>
         <Document ID="41">
             <Title>Effect of Heat Treatment Conditions on Microstructure</Title>
             <Text>4	RESULTS
@@ -9820,13 +9839,6 @@ Abc
 4.4	Strain-Rate Jump Testing
 Abc
 Abc</Text>
-        </Document>
-        <Document ID="34">
-            <Title>Table of Contents</Title>
-        </Document>
-        <Document ID="27">
-            <Title>Past copies</Title>
-            <Synopsis>Duplicate important drafts into here.</Synopsis>
         </Document>
         <Document ID="42">
             <Title>Ch.6 Conclusion</Title>
