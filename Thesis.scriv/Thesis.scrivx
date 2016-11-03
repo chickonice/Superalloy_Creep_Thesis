@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="MacBook-Pro-177" Modified="2016-11-02 23:36:00 -0400" ModID="4537A8F5-9AFB-49C0-AEAF-0A2000F0FDC2">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="MacBook-Pro-177" Modified="2016-11-03 00:21:40 -0400" ModID="38350B1F-9892-4C66-B6A8-0A810EF3CD8A">
     <Binder>
         <BinderItem ID="0" UUID="56DADFFB-7EF8-49E1-A7BC-C737BAF0078A" Type="DraftFolder" Created="2016-02-01 19:51:34 -0500" Modified="2016-02-01 19:51:34 -0500">
             <Title>Draft</Title>
@@ -38,7 +38,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="4" UUID="EDDEB0DD-9EDE-4226-8C55-5A52259CC115" Type="Text" Created="2016-02-01 19:51:34 -0500" Modified="2016-10-31 09:04:50 -0400">
+                <BinderItem ID="4" UUID="EDDEB0DD-9EDE-4226-8C55-5A52259CC115" Type="Text" Created="2016-02-01 19:51:34 -0500" Modified="2016-11-03 00:07:50 -0400">
                     <Title>Abstract</Title>
                     <MetaData>
                         <PageBreakBefore>Yes</PageBreakBefore>
@@ -47,7 +47,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>221,0</TextSelection>
+                        <TextSelection>2688,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="15" UUID="48A46013-E3E4-436F-9BCE-8C2700707AFC" Type="Text" Created="2016-02-01 19:51:34 -0500" Modified="2016-10-11 02:11:49 -0400">
@@ -149,7 +149,7 @@
                                 <TextSelection>4766,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="64" UUID="6B8C3A4B-71EF-47F4-BC63-5438E1615180" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-11-02 21:41:09 -0400">
+                        <BinderItem ID="64" UUID="6B8C3A4B-71EF-47F4-BC63-5438E1615180" Type="Text" Created="2016-02-01 20:29:39 -0500" Modified="2016-11-02 23:56:05 -0400">
                             <Title>Ch.4 Effect of Aging Time on Microstructure and High Temperature Constant-Stress Creep Behavior</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -158,10 +158,10 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>482,0</TextSelection>
+                                <TextSelection>752,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" UUID="EF908D50-D365-4EC8-9E63-D3D9D9018BAB" Type="Text" Created="2016-02-01 20:29:46 -0500" Modified="2016-11-02 23:36:00 -0400">
+                        <BinderItem ID="42" UUID="EF908D50-D365-4EC8-9E63-D3D9D9018BAB" Type="Text" Created="2016-02-01 20:29:46 -0500" Modified="2016-11-03 00:20:57 -0400">
                             <Title>Ch.5 Conclusion</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -170,7 +170,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>58,0</TextSelection>
+                                <TextSelection>816,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="43" UUID="94B38276-EC8D-40BC-B9A6-D0863255F1A0" Type="Text" Created="2016-02-01 20:29:52 -0500" Modified="2016-11-02 21:39:45 -0400">
@@ -313,7 +313,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>151138,0</TextSelection>
+                                <TextSelection>146664,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="47" UUID="099384E4-0B62-417E-A5C9-58F5BE67DE1A" Type="Text" Created="2015-12-04 15:49:58 -0500" Modified="2016-05-14 16:53:34 -0400">
@@ -984,7 +984,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-06-19 08:28:32 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="3428" Characters="20097" Date="2016-11-02 18:05:35 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-11-03 00:21:47 -0400"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>FDB7A592-5F8A-41BE-82DC-5CE440EBC8E6</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="8 1/2x11" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
