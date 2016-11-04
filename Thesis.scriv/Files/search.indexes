@@ -1948,7 +1948,7 @@ JUNE 1962 / 293
 4.1	Introduction 
 		In this chapter, the effects of aging time on the microstructure and high temperature creep and tensile behavior of the alumina-forming austenitic stainless steel model alloy Fe-20Cr-30Ni-2Nb-5Al (at.%) is investigated. High temperature tensile tests were performed and compared to room temperature results. Constant-stress creep tests were performed at an elevated temperature and the microstructure analyzed before and after each creep test. Additionally, the effect of aging temperature on the presence of precipitates in the alloy’s matrix was explored. 
 	4.2	Experimental
-		Bright-field TEM images were used to investigate the effect of aging temperature on the presence of precipitates in the alloy’s matrix, specifically on the presence of γ’-Ni3Al (L12) at 760ºC as detailed in Chapter 3.
+		Bright-field TEM was used to investigate the effect of aging temperature on the presence of precipitates in the alloy’s matrix, specifically on the presence of γ’-Ni3Al (L12) at 760ºC as detailed in Chapter 3.
  	To explore the effects of aging time on the microstructure of the alloy, specimens were homogenized at 1250ºC and then aged 0, 2.4, 24 or 240 h at 800ºC. Microstructural analysis, namely focused on Laves phase and NiAl precipitates, was performed on the specimens for each aging condition using images taken by the SEM. To distinguish the matrix and the precipitates, BSE images were used for the microstructural analysis due to BSE differentiating based on atomic number.
 		The area fraction of grain boundary Laves phase and NiAl precipitates (designated as ρ) for Fe-20Cr-30Ni-2Nb-5Al (at. %) was quantitatively analyzed using equation (1) { | Kanno, et al., 2016 | | |zu:2902168:F3WA6G54}, where l is the length of the grain boundary covered by Laves phase particles and NiAl precipitates and L is the total length of the grain boundary:
 		
@@ -1958,10 +1958,10 @@ The value of ρ was calculated from the average of three BSE images of mechanica
  	To explore the effects of straining at an elevated temperature on the microstructure of the alloy, microstructural analysis was performed on the specimens for each aging condition after the completion of a 500 h creep test using BSE images taken by the SEM as detailed in Chapter 3. Images were taken of three locations along each T-bone for each condition to compare precipitate quantity and size at a location where the sample was not strained (the head) and a location where the sample was strained (the gauge). 
 4.3	Results and Discussion
 4.3.1	Investigating presence of  γ’-Ni3Al (L12) precipitates at 760°C 
-		A bright-field TEM image of a precipitate in Fe-20Cr-30Ni-2Nb-5Al (at. %) Located on the edge of a thin foil is shown in Figure 4.1 (a).  A selected area diffraction pattern (SADP) taken from the f.c.c. matrix is shown in Figure 4.1 (b). The strong diffraction spots are from the L12 phase γ’-Ni3Al precipitate superlattice reflections, and the orientation relationship between the f.c.c. austenite matrix and the L12 phase is cube-on-cube, mimicking results of alloys with similar compositions to Fe-20Cr-30Ni-2Nb-5Al (at. %) that have exhibited L12 γ’-Ni3Al precipitates { | Yamamoto, et al., 2013 | | |zu:2902168:37HVMBC9}{ | Hu, et al., 2015 | | |zu:2902168:AHZJNG3X}{ | Reed, 2008 | | |zu:2902168:MZ64JXCN}. This result confirms that this precipitate is the γ’-Ni3Al L12 phase. 
+		A bright-field TEM image of a precipitate located on the edge of a thin foil in a sample of Fe-20Cr-30Ni-2Nb-5Al (at. %) homogenized at 1250°C for 24 h, aged at 800°C for 24 h and crept for ~800 h at 760°C is shown in Figure 4.1 (a). A selected area diffraction pattern (SADP) taken from the f.c.c. matrix is shown in Figure 4.1 (b). The strong diffraction spots are from the L12 phase γ’-Ni3Al precipitate superlattice reflections, and the orientation relationship between the f.c.c. austenite matrix and the L12 phase is cube-on-cube, mimicking results of alloys with similar compositions to Fe-20Cr-30Ni-2Nb-5Al (at. %) that have exhibited L12 γ’-Ni3Al precipitates { | Yamamoto, et al., 2013 | | |zu:2902168:37HVMBC9}{ | Hu, et al., 2015 | | |zu:2902168:AHZJNG3X}{ | Reed, 2008 | | |zu:2902168:MZ64JXCN}. This result confirms that this precipitate is the γ’-Ni3Al L12 phase. 
 		In prior studies the presence of γ’-Ni3Al was found after creep-rupture tests conducted at 750°C and under a 100 MPa load and were said to improve the alloy’s creep properties{ | Yamamoto, et al., 2008 | | |zu:2902168:P4GIA9HS}. However, the precipitate was not found at 800°C in an alloy of the same composition as the model alloy { | Trotter, et al., 2014 | | |zu:2902168:5KGJFBG9}. The current result confirming the presence of the γ’-Ni3Al precipitate at 760°C, supports the hypothesis that the model alloy has superior creep properties that are extended to an upper bound temperature of 760°C. Further work needs to be conducted to determine at what temperature Ni3Al particles are no longer stable. 
 ￼    ￼
-Figure 4.1: (a) Bright-field TEM image of Fe-20Cr-30Ni-2Nb-5Al (at. %) homogenized at 1250°C for 24 h , aged at 800°C for 24 h and crept for ~800 h at 760°C with an arrow indicating the matrix; (b) corresponding selected area diffraction pattern of the matrix showing γ’-Ni3Al (L12) superlattice reflections. 
+Figure 4.1: (a) Bright-field TEM image of Fe-20Cr-30Ni-2Nb-5Al (at. %) homogenized at 1250°C for 24 h, aged at 800°C for 24 h and crept for ~800 h at 760°C with an arrow indicating the matrix; (b) corresponding selected area diffraction pattern of the matrix showing γ’-Ni3Al (L12) superlattice reflections. 
 4.3.2	Characterizing the effects of aging time on alloy’s microstructure 
  	 Figure 4.2 shows BSE images of the microstructure evolution of Fe2Nb Laves phase precipitates after a homogenizing anneal at 1250°C for 24 h and subsequent aging at 800°C for 2.4 h, 24 h, and 240 h. Fe2Nb Laves phase precipitates are common in AFAs { | Yamamoto, et al., 2007 | | |zu:2902168:85ZQGZD8}{ | Brady, et al., 2007 | | |zu:2902168:CQH9PX4J}{ | Yukinori Yamamoto, et al., 2008 | | |zu:2902168:9XHRKPZI}{ | Brady, et al., 2009 | | |zu:2902168:SZSS7FI6}{ | Brady, et al., 2014 | | |zu:2902168:USZ8XMC2}{ | Yamamoto, et al., 2013 | | |zu:2902168:37HVMBC9}{ | Zhou, et al., 2014 | | |zu:2902168:SCEFTCGX}. It can be seen in Figure 4.2 (a) that after annealing at 1250°C, the alloy shows no precipitation in the single-phase f.c.c. matrix prior to aging. After aging for 2.4 h (b), 24 h (c), and 240 h (d), the alloy exhibits increasing quantities of fine dispersions of lightly contrasted Fe2Nb Laves phase precipitates in the SEM images. After aging for just 2.4 h, the Laves phase is present only on the grain boundaries, however after aging for 24 h and 240 h at 800°C, in addition to appearing on the grain boundaries, the particles are also observed in the alloy’s austenite matrix. The precipitates along the grain boundaries appear coarser than those in the interior of the grains in the matrix. 
 ￼
@@ -1977,7 +1977,7 @@ Figure 4.3:  High temperature tensile curves of Fe-20Cr-30Ni-2Nb-5Al (at. %) hom
 		Figure 4.3 shows high temperature tensile curves of Fe-20Cr-30Ni-2Nb-5Al (at. %) conducted at 760ºC with an initial strain rate of 5 x 10-4 s-1. Prior to tensile testing samples were homogenized at 1250°C for 24 h and subsequently aged at 800°C for 0, 2.4, 24 or 240 h. At least three tests were conducted at each condition and the results averaged. Table 4.2 provides a summary of the average high temperature yield strength (YS), high temperature ultimate tensile strength (UTS), and elongation to failure (εf) for the samples. 
 Table 4.2 High temperature yield strength (YS), high temperature ultimate tensile strength (UTS), and elongation to failure (εf) for Fe-20Cr-30Ni-2Nb-5Al (at. %) homogenized at 1250°C for 24 h, heat treated at 800°C and strained under tension at 760°C with an initial strain rate of 5 x 10-4 s-1. Results are the average of at least three tests at each condition. 
 ￼
-		Overall, the high temperature tensile test YS, UTS and elongations to failure were significantly lower when compared to those of tensile tests conducted at room temperature on the model alloy in prior studies and no work-hardening was observed { | Trotter, &amp; Baker, 2015 | | |zu:2902168:25396B3B}. For the 2.4 h aged sample no discontinuation was observed as compared to the 2.4 h room temperature tensile sample which exhibited an upper and lower yield point and a 5% Lüder׳s strain. Interestingly, the room temperature YS for the 2.4 h sample has the lowest value of all the heat treated samples (2.4 h, 24 h, 240 h), but has the highest value of all samples tested, including the homogenized sample, for the high temperature tests. This may be attributed to the presence of fine Laves phase precipitates pinning dislocations and strengthening the alloy. As the precipitates increase in size and coarsen, the strengthening properties decrease. 
+		Overall, the high temperature YS, UTS and elongations to failure were significantly lower when compared to results of tensile tests conducted at room temperature on the model alloy in prior studies and no work-hardening was observed { | Trotter, &amp; Baker, 2015 | | |zu:2902168:25396B3B}. For the 2.4 h aged sample no discontinuation was observed as compared to the 2.4 h room temperature tensile sample which exhibited an upper and lower yield point and a 5% Lüder׳s strain. Interestingly, the room temperature YS for the 2.4 h sample has the lowest value of all the heat treated samples (2.4 h, 24 h, 240 h), but has the highest value of all samples tested, including the homogenized sample, for the high temperature tests. This may be attributed to the presence of fine Laves phase precipitates pinning dislocations and strengthening the alloy. As the precipitates increase in size and coarsen, the strengthening properties decrease. 
 		The sample aged for 240 h exhibited the lowest yield strength (166 MPa) of all the heat treatments tested, even when compared to the homogenized sample which was not heat treated and had a yield strength of 188 MPa. This poor tensile performance can possibly be attributed to the 240 h anneal having the highest area fraction of grain boundary Fe2Nb Laves phase and NiAl precipitates of all samples tested, with 77% of the grain boundary covered, and a significant PFZ visible adjacent to the grain boundaries as seen in Figure 4.2 (d). In previous studies studying creep-rupture curves and the resulting microstructure of creep-rupture tests conducted at 750°C and 100 MPa on an alloy with the same composition as the model alloy, a PFZ was also found adjacent to the grain boundaries. The authors posited that deformation occurred primarily along the PFZ rather than uniformly throughout the grains and that elimination of the PFZ may further improve the creep properties of the alloy { | Yamamoto, et al., 2008 | | |zu:2902168:P4GIA9HS}. This explanation is further supported by Figure 4.4 of the fracture surface for Fe-20Cr-30Ni-2Nb-5Al (at. %) after being homogenized at 1250°C for 24 h, aged at 800°C for 240 h and tensile tested at 760°C, and shows fracture occurring along the grain boundary of the alloy and not the matrix. The fracture surface shows a visible layer of oxide due to the high temperature the alloy was exposed to during tensile testing. 
 ￼
 Figure 4.4: BSE image of fracture surface for Fe-20Cr-30Ni-2Nb-5Al (at. %) after being homogenized at 1250°C for 24 h, aged at 800°C for 240 h and strained under tension at 760°C with an initial strain rate of 5 x 10-4 s-1. 
@@ -5210,14 +5210,17 @@ I</Text>
             <Text>STUDY OF CREEP OF ALUMINA-FORMING AUSTENITIC STAINLESS STEEL FOR HIGH-TEMPERATURE ENERGY APPLICATIONS
 A Thesis
 Submitted to the Faculty 
-In partial fulfillment 
-Of the requirements for the
-Degree of Master of Science by
-Natalie Petrovna Afonina
+in partial fulfillment of the requirements for the
+degree of 
+Master of Science
+ by
+
+NATALIE PETROVNA AFONINA
+
 Thayer School of Engineering
 Dartmouth College
 Hanover, New Hampshire
-November 2016
+Date that submit signed thesis
 Examining Committee: 
 Chairman_______________________ 
 (Dr. Ian Baker) 
@@ -5476,19 +5479,12 @@ Results. [Insert text here]
 
 Conclusions. [Insert text here]
 </Synopsis>
-            <Text>Thayer School of Engineering
-Dartmouth College
-
-“Study of creep of alumina-forming austenitic stainless 
-steel for high-temperature energy applications”
-
-Natalie Petrovna Afonina
-Master of Science
-
-Dr. Ian Baker 
-Dr. Harold Frost 
-Dr. Rachel Obbard
-ABSTRACT</Text>
+            <Text>ABSTRACT
+		To withstand the high temperature (&gt;700°C) and pressure demands of steam turbines and boilers used for energy applications, metal alloys must be economically viable and have the necessary material properties, such as high-temperature creep strength, oxidation and corrosion resistance, to withstand such conditions. One promising class of alloys potentially capable of withstanding the rigors of aggressive environments, are alumina-forming austenitic stainless steels (AFAs) alloyed with aluminum to improve corrosion and oxidation resistance. The effect of aging on the microstructure, high temperature constant-stress creep behavior and mechanical properties of the AFA-type alloy Fe-20Cr-30Ni-2Nb-5Al (at.%) were investigated in this study.
+		The alloy's microstructural evolution with increased aging time was observed prior to creep testing. As aging time increased, the alloy exhibited increasing quantities of fine Fe2Nb Laves phase dispersions, with a precipitate-free zone appearing in samples with higher aging times. The presence of the L12 phase γ’-Ni3Al precipitate was detected in the alloy’s matrix at 760°C. 
+		A constant-stress creep rig was designed, built and its operation validated. Constant-stress creep tests were performed at 760°C and 35MPa, and the effects of different aging conditions on creep rate were investigated. Specimens aged for 240 h exhibited the highest creep rate by a factor of 5, with the homogenized sample having the second highest rate. Samples aged for 2.4 h and 24 h exhibited similar low secondary creep rates. Creep tests conducted at 700ºC exhibited a significantly lower creep rate compared to those at 760ºC. 
+		Microstructural analysis was performed on crept samples to explore high temperature straining properties. The quantity and size of Fe2Nb Laves phase and NiAl particles increased in the matrix and on grain boundaries with longer aging time. 
+		High temperature tensile tests were performed and compared to room temperature results. The high temperature results were significantly lower when compared to room temperature values. Higher creep rates were correlated with lower yield strengths. </Text>
         </Document>
         <Document ID="75">
             <Title>AFA proposal_forNatThesis</Title>
@@ -10024,9 +10020,9 @@ I would like to thank:
 		Mark Fischer, for being a watchful older brother and lending a new perspective. You’ve kept me successfully out of trouble most of the time. 
 		Julian Childs-Walker, for being my twin and remaining the only person to ever hitchhike past the Arctic Circle to adventure with me. You’ve continuously helped me get up to no good and our conversations help me make sense of this world. 
 		I can’t convey how much I owe my family for getting me this far.
-		My sister Jane Bellousov for being the level-headed one in the family and your incredible resilience. I can’t wait to go on more adventure trips with you. 
+		My sister Jane Bellousov for being the level-headed one in the family and your incredible resilience. I can’t wait to go on more adventure trips with you as we grow older together. 
 		My father Yevgeniy Belousov, for encouraging me to stop working so hard and go on more climbing breaks outside. You’ve provided much needed perspective and inspiration.  
-		My grandmother Dr. Galina Gataulina who worries for me about having time to finish my Masters degree, encouraging me not to procrastinate and feeding me delicious piroshky. 
+		My grandmother Dr. Galina Gataulina for worrying about my academic timeline, encouraging me not to procrastinate and feeding me delicious piroshki. 
 		My grandfather Dr. Akhiyar Myginovich for reminding me that life can be filled with meaningful work and to never lose your inner child wonder of how the world works. For always being proud and supportive and teaching me how to use a crowbar to pull nails and lay bricks in a straight line. You encouraged me on my path to graduate school, and I wish you’d still be here to see me complete what I started.  
 		Most importantly, my mother Dr. Irina Afonina, without whom I would not be here today. Who supported me at every step from the moment the two of us immigrated to the United States from Russia. You gave me room to figure things out on my own and spread my wings. You sadly left us before I could finish this thesis, but I know you would’ve been proud of me and would have loved to do the first round of edits. 
 
@@ -10220,17 +10216,16 @@ Abc</Text>
         </Document>
         <Document ID="42">
             <Title>Ch.5 Conclusion</Title>
-            <Text>CHAPTER 5	CONCLUSION 
-
-Paragraph 1
-Paragraph 2
-Paragraph 3
-
-		Alloyed with aluminum to provide corrosion resistance, alumina-forming austenitic (AFA) stainless steels have shown promise for application in the harsh environments seen in energy production where strong materials that are oxidation and corrosion resistant are needed.  The role of precipitates in AFA-type alloys, Fe-20Cr-30Ni-2Nb-5Al and DAFA26 was investigated in this study.
-            The effects of cold work on the microstructural evolution during aging of solutionized Fe-20Cr-30Ni-2Nb-5Al (at. %), was investigated.  Cold work prior to aging at either 700°C or 800°C facilitated the heterogeneous precipitation of both Laves phase and B2-type NiAl precipitates.  While often co-located after cold work, these particles were distinct. γ’-Ni3Al precipitates were also observed in samples aged at 700°C with 90% prior cold work. Compared to material that had not been strained, defects introduced by 50 and 90% cold work at 700°C and 90% cold work at 800°C not only caused a more rapid precipitation in the matrix but also an increase in the total volume fraction of precipitates as compared to material that had been simply aged.
-		The effect of aging on the microstructure and mechanical properties of Fe-20Cr-30Ni-2Nb-5Al (at. %) was evaluated.  An increase in the volume fraction of B2 and Laves phase precipitates in the alloy was accompanied by an increase in the yield strength from 205 MPa after the solutionizing anneal up to 383 MPa after aging at 800°C for 1325 h.  After aging for 1325 h, even with extensive intermetallic grain boundary coverage, the alloy showed a room temperature elongation of 19%.
-		The relationship between the crystallographic orientation of Laves Fe2Nb and B2-NiAl precipitates and their f.c.c. parent matrix was investigated.  Four variants of the m // p, m // p orientation relationship proposed by Denham and Silcock (J. Iron Steel Inst. 207 (1969) 582) were observed for the Laves phase, and six variants of the m // p, m // p Kurdjumov-Sachs relationship were observed for the B2-NiAl phase.
-	The microstructural evolution of DAFA26 was also observed.  In addition to Laves phase and B2-NiAl precipitates, the evolution of the Ni3Al precipitates present in this alloy was investigated.</Text>
+            <Text>CHAPTER 5	CONCLUSIONS 
+		After annealing at 1250°C, Fe-20Cr-30Ni-2Nb-5Al (at. %) showed no precipitation in the single-phase f.c.c. matrix prior to aging. After aging for 2.4 h, 24 h, and 240 h, the alloy exhibited increasing quantities of fine dispersions of lightly contrasted Fe2Nb Laves phase precipitates. After aging for just 2.4 h, the Laves phase was present only on the grain boundaries, however after aging for 24 h and 240 h at 800°C, in addition to appearing on the grain boundaries, the particles were also observed in the alloy’s austenite matrix. The precipitates along the grain boundaries appeared coarser than those in the interior of the grains in the matrix. A precipitate-free zone (PFZ) was visible adjacent to the grain boundary in the sample aged for 240 h.
+		The L12 phase γ’-Ni3Al precipitate was found at 760°C in a sample of Fe-20Cr-30Ni-2Nb-5Al (at. %) homogenized at 1250°C for 24 h, aged at 800°C for 24 h and crept for ~800 h at 760°C. Prior to this finding γ’-Ni3Al had only been found at 750°C and was not found at 800°C in an alloy of the same composition. 
+		The area fraction of grain boundary Fe2Nb Laves phase and NiAl precipitates increased with aging time. When the sample was fully solutionized at 1250°C, there was no grain boundary coverage. After aging for 2.4 h at 800°C, the grain boundary area fraction increased to 42%. The grain boundary coverage was 69% for samples aged for 24 h and increased to 77% for samples aged 240 h. 
+		The high temperature YS, UTS and elongations to failure of tensile tests conducted at 760°C were significantly lower when compared to results of tensile tests conducted at room temperature. The room temperature YS for the 2.4 h sample had the lowest value of all the heat treated samples (2.4 h, 24 h, 240 h), but had the highest value of all samples tested for the tests conducted at 760°C. The sample aged for 240 h exhibited the lowest yield strength of all the heat treatments tested. 
+		The number and size of precipitated Fe2Nb Laves phase and NiAl precipitate particles increased over the course of the 500 h constant-stress creep tests both in the matrix and on the grain boundaries of all specimens tested.
+		The precipitate structure evolved in a similar way in cross-sectional and lengthwise samples taken from the gauge of each crept sample, but the structure was less evolved in samples taken from the head of the T-bone that had only been exposed to the temperature but not the stress of the creep test. 
+		Specimens heat treated for 0 h and 24 h had similar primary creep rates, which were higher than the primary creep rate of the 2.4 h aged samples. However, they diverged in their secondary creep rate, with the homogenized samples exhibiting a significantly higher secondary creep rate and reaching 1.1% strain at the completion of the test, while the samples aged for 24 h only reached 0.6% strain. Samples aged for 2.4 h exhibited a similar secondary creep rate to the 24 h aged samples. Samples aged for 240 h exhibited the highest primary and secondary creep rates with an overall strain of 5.6%. 
+		High temperature creep rates correlated well with high temperature yield strengths of the alloy, with faster creep rates correlating with lower yield strengths. 
+		The 700°C creep test exhibited a significantly lower creep rate compared to the 760°C creep test, with strains of 0.2% and 1.1%, respectively. </Text>
         </Document>
         <Document ID="35">
             <Title>List of Tables</Title>
@@ -11735,7 +11730,7 @@ Figure 1.3: Backscattered electron images showing Fe2Nb Laves phase (light contr
 1.4	Outline of Research Project
 	The purpose of this thesis is to investigate the high-temperature strengthening mechanisms in alumina-forming austenitic stainless steels, specifically the high temperature constant-stress creep and mechanical properties of the model alloy Fe-20Cr-30Ni-2Nb-5Al (at. %) at different aging conditions. 
 	The investigation proceeded as follows:
-1) A constant-stress creep apparatus was designed, built and its operation validated
+1) A constant-stress creep rig was designed, built and its operation validated
 2) Samples were prepared form the model alloy and aged for time intervals of 0, 2.4, 24 or 240 h at 800°C
 3) Constant-stress creep tests were conducted at elevated temperatures of 760°C 
 4) Secondary electron imaging was used to examine the microstructure of the samples prior to and after the completion of creep testing 
